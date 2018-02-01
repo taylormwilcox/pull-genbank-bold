@@ -55,9 +55,9 @@ for(i in 1:length(r_fetched)){
 }
 
 records_genbank <- data.frame(cbind(organism = orgn_genbank,
-                                       uid = uid_genbank,
-                                       genbank_accession = accession_genbank, 
-                                       loc = location_genbank))
+                                    uid = uid_genbank,
+                                    genbank_accession = accession_genbank, 
+                                    loc = location_genbank))
 
 ### Get the BOLD sequence entries
 records_bold <- bold_seqspec(taxon = taxon_list)[, c('species_name',   
@@ -82,28 +82,34 @@ genbank_fasta <- c()
 for(i in 1:length(ids_chunked)){
   genbank_fasta <- append(genbank_fasta,
                           entrez_fetch(db = "nucleotide",
-                                id = ids_chunked[[i]],
-                                rettype = "fasta"))
+                                       id = ids_chunked[[i]],
+                                       rettype = "fasta"))
   print(paste("Chunk #",i,"of",length(ids_chunked),"done!"))                    # progress message
 }
 
 write(genbank_fasta, out_genbank) # EXPORT (fasta-format)
 
 ### BOLD FASTA - NOTE: Empty BOLD entries exist
-bold_fasta <- bold_seq(ids = bold_only$processid)                             
-fasta_vector <- vector(, length = length(bold_fasta))                           # vector to put fasta sequences in
-for(i in 1:length(fasta_vector)){
-  fasta_vector[i] <- paste('>', bold_fasta[[i]]$id, '|', bold_fasta[[i]]$name, "\r", 
-                           bold_fasta[[i]]$sequence, sep = '')                  # reconstruct fasta with formatted headers
+if(nrow(bold_only) > 0) {
+  bold_fasta <- bold_seq(ids = bold_only$processid)                             
+  fasta_vector <- vector(, length = length(bold_fasta))                           # vector to put fasta sequences in
+  for(i in 1:length(fasta_vector)){
+    fasta_vector[i] <- paste('>', bold_fasta[[i]]$id, '|', bold_fasta[[i]]$name, "\r", 
+                             bold_fasta[[i]]$sequence, sep = '')                  # reconstruct fasta with formatted headers
+    write(fasta_vector, out_bold) # EXPORT (fasta-format)
+    
+    ### Joint records
+    out_joint_records <- subset(joint_records, joint_records$processid %in% sapply(bold_fasta, "[[", "id") |
+                                  joint_records$genbank_accession %in% in_genbank$genbank_accession)
+    write.csv(out_joint_records, out_table) # EXPORT (readable in Excel
+    
+    ### Joint fasta
+    genbank_bold_fasta <- append(genbank_fasta, paste(fasta_vector, sep="", collapse=""))
+    write(genbank_bold_fasta, file = out_genbank_bold)
+  }
+} else{
+  print("All BOLD entries also in GenBank")
+  write.csv(joint_records, out_table)
 }
-write(fasta_vector, out_bold) # EXPORT (fasta-format)
 
-### trim table to only include references with a FASTA available
-out_joint_records <- subset(joint_records, joint_records$processid %in% sapply(bold_fasta, "[[", "id") |
-                              joint_records$genbank_accession %in% in_genbank$genbank_accession)
-write.csv(out_joint_records, out_table) # EXPORT (readable in Excel
-
-### MERGE GenBank and BOLD FASTA
-genbank_bold_fasta <- append(genbank_fasta, paste(fasta_vector, sep="", collapse=""))
-write(genbank_bold_fasta, file = out_genbank_bold)
 

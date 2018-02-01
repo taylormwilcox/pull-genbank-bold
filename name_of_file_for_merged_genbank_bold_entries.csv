@@ -1,1134 +1,424 @@
 "","genbank_accession","organism","uid","loc","species_name","processid","lat","lon"
-"1","AB889396","rainbow trout","638115698",NA,NA,NA,NA,NA
-"2","AB898745","rainbow trout","661245587","Niji2|USA",NA,NA,NA,NA
-"3","AB898746","rainbow trout","661245588","Steal1|USA",NA,NA,NA,NA
-"4","AF013469","rainbow trout","2343243","C3.03",NA,NA,NA,NA
-"5","AF013474","rainbow trout","2343248","C5.1",NA,NA,NA,NA
-"6","AF013475","rainbow trout","2343249","C5.2",NA,NA,NA,NA
-"7","AF013476","rainbow trout","2343250","C5.3",NA,NA,NA,NA
-"8","AF013477","rainbow trout","2343251","C5.4",NA,NA,NA,NA
-"9","AF044130","rainbow trout","3093759","RTDL01",NA,NA,NA,NA
-"10","AF044131","rainbow trout","3093760","RTDL02",NA,NA,NA,NA
-"11","AF044132","rainbow trout","3093761","RTDL03",NA,NA,NA,NA
-"12","AF044133","rainbow trout","3093762","RTDL04",NA,NA,NA,NA
-"13","AF044134","rainbow trout","3093763","RTDL05",NA,NA,NA,NA
-"14","AF044135","rainbow trout","3093764","RTDL06",NA,NA,NA,NA
-"15","AF044136","rainbow trout","3093765","RTDL07",NA,NA,NA,NA
-"16","AF044137","rainbow trout","3093766","RTDL08",NA,NA,NA,NA
-"17","AF044138","rainbow trout","3093767","RTDL09",NA,NA,NA,NA
-"18","AF044139","rainbow trout","3093768","RTDL10",NA,NA,NA,NA
-"19","AF044140","rainbow trout","3093769","RTDL11",NA,NA,NA,NA
-"20","AF044141","rainbow trout","3093770","RTDL12",NA,NA,NA,NA
-"21","AF044142","rainbow trout","3093771","RTDL13",NA,NA,NA,NA
-"22","AF044143","rainbow trout","3093772","RTDL14",NA,NA,NA,NA
-"23","AF044144","rainbow trout","3093773","RTDL15",NA,NA,NA,NA
-"24","AF044145","rainbow trout","3093774","RTDL16",NA,NA,NA,NA
-"25","AF044146","rainbow trout","3093775","RTDL17",NA,NA,NA,NA
-"26","AF044147","rainbow trout","3093776","RTDL18",NA,NA,NA,NA
-"27","AF044148","rainbow trout","3093777","RTDL19",NA,NA,NA,NA
-"28","AF044149","rainbow trout","3093778","RTDL20",NA,NA,NA,NA
-"29","AF044150","rainbow trout","3093779","RTDL21",NA,NA,NA,NA
-"30","AF044151","rainbow trout","3093780","RTDL22",NA,NA,NA,NA
-"31","AF044152","rainbow trout","3093781","RTDL23",NA,NA,NA,NA
-"32","AF044153","rainbow trout","3093782","RTDL24",NA,NA,NA,NA
-"33","AF044154","rainbow trout","3093783","RTDL25",NA,NA,NA,NA
-"34","AF044155","rainbow trout","3093784","RTDL26",NA,NA,NA,NA
-"35","AF044156","rainbow trout","3093785","RTDL27",NA,NA,NA,NA
-"36","AF044157","rainbow trout","3093786","RTDL28",NA,NA,NA,NA
-"37","AF044158","rainbow trout","3093787","RTDL29",NA,NA,NA,NA
-"38","AF044159","rainbow trout","3093788","RTDL30",NA,NA,NA,NA
-"39","AF044160","rainbow trout","3093789","RTDL31",NA,NA,NA,NA
-"40","AF044161","rainbow trout","3093790","RTDL32",NA,NA,NA,NA
-"41","AF044162","rainbow trout","3093791","RTDL33",NA,NA,NA,NA
-"42","AF044163","rainbow trout","3093792","RTDL34",NA,NA,NA,NA
-"43","AF044164","rainbow trout","3093793","RTDL35",NA,NA,NA,NA
-"44","AF044165","rainbow trout","3093794","RTDL36",NA,NA,NA,NA
-"45","AF044166","rainbow trout","3093795","RTDL37",NA,NA,NA,NA
-"46","AF055094","rainbow trout","3005787","sample obtained from Nevin Hatchery, Wisconsin, USA",NA,NA,NA,NA
-"47","AF113120","rainbow trout","4808820",NA,NA,NA,NA,NA
-"48","AF113121","rainbow trout","4808821","albino mutant",NA,NA,NA,NA
-"49","AF125047","rainbow trout","4894668","South Korea",NA,NA,NA,NA
-"50","AF125048","rainbow trout","4894670","South Korea|albino mutant",NA,NA,NA,NA
-"51","AF125208","rainbow trout","4680616",NA,NA,NA,NA,NA
-"52","AF125209","rainbow trout","4680618","albino mutant",NA,NA,NA,NA
-"53","AF125508","rainbow trout","4927734","South Korea",NA,NA,NA,NA
-"54","AF125509","rainbow trout","4927735","South Korea|albino mutant",NA,NA,NA,NA
-"55","AF125514","rainbow trout","4927728","South Korea",NA,NA,NA,NA
-"56","AF125515","rainbow trout","4927729","South Korea|albino mutant",NA,NA,NA,NA
-"57","AF172395","rainbow trout","5679397","Onchorhynchus mykiss|blood",NA,NA,NA,NA
-"58","AF254843","rainbow trout","7963799","RB1",NA,NA,NA,NA
-"59","AF254844","rainbow trout","7963801","RB2",NA,NA,NA,NA
-"60","AF254845","rainbow trout","7963803","RB3",NA,NA,NA,NA
-"61","AF254846","rainbow trout","7963805","RB4",NA,NA,NA,NA
-"62","AF254847","rainbow trout","7963807","RB5",NA,NA,NA,NA
-"63","AF254848","rainbow trout","7963809","RB6",NA,NA,NA,NA
-"64","AF254849","rainbow trout","7963811","RB7",NA,NA,NA,NA
-"65","AF254862","rainbow trout","7963814","similar to MYS29|BC1",NA,NA,NA,NA
-"66","AF294445","Macquarie perch","10880835",NA,NA,NA,NA,NA
-"67","AF294833","rainbow trout","9937549",NA,NA,NA,NA,NA
-"68","AF295046","Macquarie perch","10880851",NA,NA,NA,NA,NA
-"69","AF296346","rainbow trout","11528270",NA,NA,NA,NA,NA
-"70","AF312562","rainbow trout","21489646",NA,NA,NA,NA,NA
-"71","AF312563","rainbow trout","21489647",NA,NA,NA,NA,NA
-"72","AF312564","rainbow trout","21489649","type 1",NA,NA,NA,NA
-"73","AF312565","rainbow trout","21489651","type 2",NA,NA,NA,NA
-"74","AF312566","rainbow trout","21489653","type 3",NA,NA,NA,NA
-"75","AF312567","rainbow trout","21489655","type 4",NA,NA,NA,NA
-"76","AF312568","rainbow trout","21489657","type a",NA,NA,NA,NA
-"77","AF312569","rainbow trout","21489658","type b",NA,NA,NA,NA
-"78","AF312570","rainbow trout","21489659","type c",NA,NA,NA,NA
-"79","AF312573","rainbow trout","21489662","presumed past hybridization event with cutthroat trout (Oncorhynchus clarki)",NA,NA,NA,NA
-"80","AF312574","rainbow trout","21489663","presumed past hybridization event with cutthroat trout (Oncorhynchus clarki)",NA,NA,NA,NA
-"81","AF312575","rainbow trout","21489665","presumed past hybridization event with cutthroat trout (Oncorhynchus clarki)",NA,NA,NA,NA
-"82","AF312576","rainbow trout","21489667","presumed past hybridization event with cutthroat trout (Oncorhynchus clarki)",NA,NA,NA,NA
-"83","AF396658","rainbow trout","21518644","type d",NA,NA,NA,NA
-"84","AF396659","rainbow trout","21518645","type e",NA,NA,NA,NA
-"85","AF517756","rainbow trout","31296695","G",NA,NA,NA,NA
-"86","AF517757","rainbow trout","31296696","C",NA,NA,NA,NA
-"87","AF517758","rainbow trout","31296697","E",NA,NA,NA,NA
-"88","AF517759","rainbow trout","31296698","F",NA,NA,NA,NA
-"89","AF517760","rainbow trout","31296699","D",NA,NA,NA,NA
-"90","AF517761","rainbow trout","31296700","B",NA,NA,NA,NA
-"91","AF517762","rainbow trout","31296701","A",NA,NA,NA,NA
-"92","AF545059","rainbow trout","23506654","1",NA,NA,NA,NA
-"93","AH013012","Macquarie perch","1032518910","W1",NA,NA,NA,NA
-"94","AJ314564","rainbow trout","14149057",NA,NA,NA,NA,NA
-"95","AY032629","rainbow trout","14192685","American River",NA,NA,NA,NA
-"96","AY032630","rainbow trout","14192689","Swanson River",NA,NA,NA,NA
-"97","AY032631","rainbow trout","14192693","Trout Lodge",NA,NA,NA,NA
-"98","AY032632","rainbow trout","14192697","Clearwater River",NA,NA,NA,NA
-"99","AY150300","rainbow trout","27357022","brain",NA,NA,NA,NA
-"100","AY150301","rainbow trout","27357024","brain",NA,NA,NA,NA
-"101","AY150302","rainbow trout","27413312","brain",NA,NA,NA,NA
-"102","AY236431","rainbow trout","29824879",NA,NA,NA,NA,NA
-"103","AY254554","Macquarie perch","32454690","M.austW1",NA,NA,NA,NA
-"104","AY587167","rainbow trout","51573781","male|dorsal fine|adult|Russia|Shantarian Islands; 2003",NA,NA,NA,NA
-"105","AY587168","rainbow trout","51573783","female|dorsal fine|adult|Russia|west Kamchatka; 2001",NA,NA,NA,NA
-"106","AY587169","rainbow trout","51573785","male|adipose fine|adult|Russia|east Kamchatka; 2001",NA,NA,NA,NA
-"107","AY587170","rainbow trout","51573787","male|white muscle|adult|Russia|Sea of Okhotsk; 2001",NA,NA,NA,NA
-"108","AY587171","rainbow trout","51573789","male|adipose fine|adult|Russia|west Kamchatka; 2001",NA,NA,NA,NA
-"109","AY587172","rainbow trout","51573791","male|dorsal fine|adult|Russia|Shantarian Islands; 2003",NA,NA,NA,NA
-"110","AY587173","rainbow trout","51573793","female|dorsal fine|adult|Russia|Shantarian Islands; 2003",NA,NA,NA,NA
-"111","AY587174","rainbow trout","51573795","female|dorsal fine|adult|Russia|west Kamchatka; 2001",NA,NA,NA,NA
-"112","AY587175","rainbow trout","51573797","female|white muscle|adult|Russia|Sea of Okhotsk; 2001",NA,NA,NA,NA
-"113","AY587176","rainbow trout","51573799","male|white muscle|adult|Russia|Sea of Okhotsk; 2001",NA,NA,NA,NA
-"114","AY587177","rainbow trout","51573801","female|adipose fine|adult|Russia|west Kamchatka; 2001",NA,NA,NA,NA
-"115","AY587178","rainbow trout","51573803","female|dorsal fine|adult|Russia|Shantarian Islands; 2003",NA,NA,NA,NA
-"116","AY587179","rainbow trout","51573805","male|dorsal fine|adult|Russia|west Kamchatka; 2001",NA,NA,NA,NA
-"117","AY587180","rainbow trout","51573807","female|white muscle|adult|Russia|Sea of Okhotsk; 2001",NA,NA,NA,NA
-"118","AY587181","rainbow trout","51573809","male|dorsal fine|adult|Russia|Shantarian Islands; 2003",NA,NA,NA,NA
-"119","AY587182","rainbow trout","51573811","male|adipose fine|adult|Russia|west Kamchatka; 2001",NA,NA,NA,NA
-"120","AY587183","rainbow trout","51573813","female|adipose fine|adult|Russia|east Kamchatka; 2001",NA,NA,NA,NA
-"121","AY587184","rainbow trout","51573815","female|adipose fine|adult|Russia|east Kamchatka; 2001",NA,NA,NA,NA
-"122","AY587185","rainbow trout","51573817","male|adipose fine|adult|Russia|east Kamchatka; 2001",NA,NA,NA,NA
-"123","AY954373","rainbow trout","62768559","MYS1|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"124","AY954374","rainbow trout","62768560","MYS2|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"125","AY954375","rainbow trout","62768561","MYS3|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"126","AY954376","rainbow trout","62768562","MYS4|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"127","AY954377","rainbow trout","62768563","MYS5|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"128","AY954378","rainbow trout","62768564","MYS6|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"129","AY954379","rainbow trout","62768565","MYS7|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"130","AY954380","rainbow trout","62768566","MYS8|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"131","AY954381","rainbow trout","62768567","MYS9|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"132","AY954382","rainbow trout","62768568","MYS10|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"133","AY954383","rainbow trout","62768569","MYS11|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"134","AY954384","rainbow trout","62768570","MYS12|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"135","AY954385","rainbow trout","62768571","MYS13|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"136","AY954386","rainbow trout","62768572","MYS14|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"137","AY954387","rainbow trout","62768573","MYS15|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"138","AY954388","rainbow trout","62768574","MYS16|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"139","AY954389","rainbow trout","62768575","MYS17|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"140","AY954390","rainbow trout","62768576","MYS18|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"141","AY954391","rainbow trout","62768577","MYS19|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"142","AY954392","rainbow trout","62768578","MYS20|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"143","AY954393","rainbow trout","62768579","MYS21|generated using S-Phe/P2 primers (J. Nielsen)",NA,NA,NA,NA
-"144","AY961990","rainbow trout","62083903","MYS-22",NA,NA,NA,NA
-"145","AY961991","rainbow trout","62083904","MYS-23",NA,NA,NA,NA
-"146","AY961992","rainbow trout","62083905","MYS-24",NA,NA,NA,NA
-"147","AY961993","rainbow trout","62083906","MYS-25",NA,NA,NA,NA
-"148","AY961994","rainbow trout","62083907","MYS-26",NA,NA,NA,NA
-"149","AY961995","rainbow trout","62083908","MYS-27",NA,NA,NA,NA
-"150","AY961996","rainbow trout","62083909","MYS-28",NA,NA,NA,NA
-"151","D58401","rainbow trout","1001014",NA,NA,NA,NA,NA
-"152","D83946","rainbow trout","2116698","Fuji|muscle",NA,NA,NA,NA
-"153","D83947","rainbow trout","2116701","Nagano|muscle",NA,NA,NA,NA
-"154","DQ116013","rainbow trout","71081821",NA,NA,NA,NA,NA
-"155","DQ288268","rainbow trout","82492286","Clearwater River 1","Oncorhynchus mykiss","GBGC1317-06",NA,NA
-"156","DQ288269","rainbow trout","82492300","Clearwater River 2","Oncorhynchus mykiss","GBGC1318-06",NA,NA
-"157","DQ288270","rainbow trout","82492314","Gulkana River","Oncorhynchus mykiss","GBGC1319-06",NA,NA
-"158","DQ288271","rainbow trout","82492328","Skookumchuck River","Oncorhynchus mykiss","GBGC1320-06",NA,NA
-"159","DQ449935","rainbow trout","106555317","OmyNW1",NA,NA,NA,NA
-"160","DQ983920","rainbow trout","116119233",NA,NA,NA,NA,NA
-"161","EF609420","rainbow trout","148374047","BIOUG<CAN>:BW-1656|Australia: Tasmania|41.88 S 146.23 E|17-Oct-1996|T Farrel & R Morrison (Inland Fisheries)","Oncorhynchus mykiss","FOAD096-05",-41.883,146.233
-"162","EU186789","rainbow trout","164416660","HatCreek01|resident redband|RBT01|fin|USA: Hat Creek, Salmon River, ID|45.31220627 N 116.3516159 W",NA,NA,NA,NA
-"163","EU338376","rainbow trout","164504858","AIA_Om/12|Rainbow trout",NA,NA,NA,NA
-"164","EU376956","rainbow trout","166159327","AIA_Om/12|Oncorhynchus mykiss|Om226",NA,NA,NA,NA
-"165","EU427563","rainbow trout","166895552","AIA_Om/12|Oncorhynchus mykiss|Om577",NA,NA,NA,NA
-"166","EU427568","rainbow trout","166895562","AIA_Om/12|Oncorhynchus mykiss|Om451",NA,NA,NA,NA
-"167","EU524217","rainbow trout","186883702","BIOUG<CAN>:BCF-725-1|UOG:BIO:BCF-725-1|Canada","Oncorhynchus mykiss","BCF444-07",NA,NA
-"168","EU524218","rainbow trout","186883704","BIOUG<CAN>:BCF-635-3|UOG:BIO:BCF-635-3|Canada","Oncorhynchus mykiss","BCF443-07",NA,NA
-"169","EU524219","rainbow trout","186883706","BIOUG<CAN>:BCF-635-2|UOG:BIO:BCF-635-2|Canada","Oncorhynchus mykiss","BCF442-07",NA,NA
-"170","EU524220","rainbow trout","186883708","BIOUG<CAN>:BCF-635-1|UOG:BIO:BCF-635-1|Canada","Oncorhynchus mykiss","BCF441-07",NA,NA
-"171","EU524221","rainbow trout","186883710","ROM:ICH:BCF-0033-2|Canada|46.74 N 71.29 W","Oncorhynchus mykiss","BCF437-07",46.74,-71.29
-"172","EU524222","rainbow trout","186883712","ROM:ICH:BCF-0033-1|Canada|46.74 N 71.29 W","Oncorhynchus mykiss","BCF436-07",46.74,-71.29
-"173","EU527921","Macquarie perch","188523989","1",NA,NA,NA,NA
-"174","EU527922","Macquarie perch","188523990","2",NA,NA,NA,NA
-"175","EU527923","Macquarie perch","188523991","3",NA,NA,NA,NA
-"176","EU527924","Macquarie perch","188523992","4",NA,NA,NA,NA
-"177","EU527925","Macquarie perch","188523993","5",NA,NA,NA,NA
-"178","EU527926","Macquarie perch","188523994","6",NA,NA,NA,NA
-"179","EU527927","Macquarie perch","188523995","7",NA,NA,NA,NA
-"180","EU527928","Macquarie perch","188523996","8",NA,NA,NA,NA
-"181","EU527929","Macquarie perch","188523997","9",NA,NA,NA,NA
-"182","EU527930","Macquarie perch","188523998","10",NA,NA,NA,NA
-"183","EU527931","Macquarie perch","188523999","11",NA,NA,NA,NA
-"184","EU527932","Macquarie perch","188524000","12",NA,NA,NA,NA
-"185","EU527933","Macquarie perch","188524001","13",NA,NA,NA,NA
-"186","EU527934","Macquarie perch","188524002","14",NA,NA,NA,NA
-"187","EU527935","Macquarie perch","188524003","15",NA,NA,NA,NA
-"188","EU527936","Macquarie perch","188524004","16",NA,NA,NA,NA
-"189","EU527937","Macquarie perch","188524005","17",NA,NA,NA,NA
-"190","EU527938","Macquarie perch","188524006","18",NA,NA,NA,NA
-"191","EU527939","Macquarie perch","188524007","19",NA,NA,NA,NA
-"192","EU527940","Macquarie perch","188524008","20",NA,NA,NA,NA
-"193","EU527941","Macquarie perch","188524009","21",NA,NA,NA,NA
-"194","EU527942","Macquarie perch","188524010","22",NA,NA,NA,NA
-"195","EU527943","Macquarie perch","188524011","23",NA,NA,NA,NA
-"196","EU527944","Macquarie perch","188524012","24",NA,NA,NA,NA
-"197","EU527945","Macquarie perch","188524013","25",NA,NA,NA,NA
-"198","EU527946","Macquarie perch","188524014","26",NA,NA,NA,NA
-"199","EU527947","Macquarie perch","188524015","27",NA,NA,NA,NA
-"200","EU527948","Macquarie perch","188524016","28",NA,NA,NA,NA
-"201","EU527949","Macquarie perch","188524017","29",NA,NA,NA,NA
-"202","EU527950","Macquarie perch","188524018","30",NA,NA,NA,NA
-"203","EU527951","Macquarie perch","188524019","31",NA,NA,NA,NA
-"204","EU527952","Macquarie perch","188524020","32",NA,NA,NA,NA
-"205","EU527953","Macquarie perch","188524021","33",NA,NA,NA,NA
-"206","EU527954","Macquarie perch","188524022","34",NA,NA,NA,NA
-"207","EU527955","Macquarie perch","188524023","35",NA,NA,NA,NA
-"208","EU527956","Macquarie perch","188524024","36",NA,NA,NA,NA
-"209","EU527957","Macquarie perch","188524025","37",NA,NA,NA,NA
-"210","EU527958","Macquarie perch","188524026","38",NA,NA,NA,NA
-"211","EU527959","Macquarie perch","188524027","39",NA,NA,NA,NA
-"212","EU527960","Macquarie perch","188524028","40",NA,NA,NA,NA
-"213","EU527961","Macquarie perch","188524029","41",NA,NA,NA,NA
-"214","EU527962","Macquarie perch","188524030","42",NA,NA,NA,NA
-"215","EU527963","Macquarie perch","188524031","43",NA,NA,NA,NA
-"216","EU527964","Macquarie perch","188524032","44",NA,NA,NA,NA
-"217","EU527965","Macquarie perch","188524033","45",NA,NA,NA,NA
-"218","EU527966","Macquarie perch","188524034","46",NA,NA,NA,NA
-"219","EU548143","rainbow trout","179679337","1|Stellar sea lion (Eumetopias jubatus) prey inventory provided by the Molecular Genetics Laboratory, Pacific Biological Station, DFO, British Columbia, Canada",NA,NA,NA,NA
-"220","EU548144","rainbow trout","179679364","748|Stellar sea lion (Eumetopias jubatus) prey inventory provided by the Molecular Genetics Laboratory, Pacific Biological Station, DFO, British Columbia, Canada",NA,NA,NA,NA
-"221","EU548145","rainbow trout","179679396","3|Stellar sea lion (Eumetopias jubatus) prey inventory provided by the Molecular Genetics Laboratory, Pacific Biological Station, DFO, British Columbia, Canada",NA,NA,NA,NA
-"222","EU752133","rainbow trout","189165588","CVM 401.18|USA|10-Dec-2005","Oncorhynchus mykiss","RFE003-05",NA,NA
-"223","EU752134","rainbow trout","189165590","ONCOMYKI-I94-009L CERT","Oncorhynchus mykiss","RFE386-05",NA,NA
-"224","EU752135","rainbow trout","189165592","ONCOMYKI-I94-015R CERT","Oncorhynchus mykiss","RFE389-05",NA,NA
-"225","EU752136","rainbow trout","189165594","ONCOMYKI-I94-003W CERT","Oncorhynchus mykiss","RFE392-05",NA,NA
-"226","EU812317","rainbow trout","193498225","NCHS8|fin",NA,NA,NA,NA
-"227","FJ164930","rainbow trout","209367029","NEOCAL07-0007|Canada: British Columbia|48.82 N 125.15 W|13-Jun-2007|Carolyn Bergstrom|Martin Krkosek","Oncorhynchus mykiss","TZFPA154-07",48.82,-125.15
-"228","FJ435586","rainbow trout","238556505","O.mykissI1",NA,NA,NA,NA
-"229","FJ435587","rainbow trout","238556507","O.mykissI2",NA,NA,NA,NA
-"230","FJ435588","rainbow trout","238556509","O.mykissII1",NA,NA,NA,NA
-"231","FJ435589","rainbow trout","238556511","O.mykissII2",NA,NA,NA,NA
-"232","FJ435590","rainbow trout","238556513","O.mykissIII1",NA,NA,NA,NA
-"233","FJ435591","rainbow trout","238556515","O.mykissIII2",NA,NA,NA,NA
-"234","FJ435592","rainbow trout","238556517","O.mykissIV1",NA,NA,NA,NA
-"235","FJ435593","rainbow trout","238556519","O.mykissIV2",NA,NA,NA,NA
-"236","FJ435594","rainbow trout","238556521","O.mykissV1",NA,NA,NA,NA
-"237","FJ435595","rainbow trout","238556523","O.mykissV2",NA,NA,NA,NA
-"238","FJ435596","rainbow trout","238556525","O.mykissVI1",NA,NA,NA,NA
-"239","FJ435597","rainbow trout","238556527","O.mykissVI2",NA,NA,NA,NA
-"240","FJ435598","rainbow trout","238556529","O.mykissVI3",NA,NA,NA,NA
-"241","FJ435599","rainbow trout","238556531","O.mykissVI4",NA,NA,NA,NA
-"242","FJ435600","rainbow trout","238556533","O.mykissVI5",NA,NA,NA,NA
-"243","FJ435601","rainbow trout","238556535","O.mykissVI6",NA,NA,NA,NA
-"244","FJ435602","rainbow trout","238556537","O.mykissVI7",NA,NA,NA,NA
-"245","FJ620119","rainbow trout","241914296","12S-H",NA,NA,NA,NA
-"246","FJ620127","rainbow trout","241914304","12S-E",NA,NA,NA,NA
-"247","FJ710956","Macquarie perch","224486628","Australia: Hatchery bred, Narrandera NSW",NA,NA,NA,NA
-"248","FJ710971","rainbow trout","224486643","Australia|seafood trade|30-Oct-2007",NA,NA,NA,NA
-"249","FJ710972","rainbow trout","224486644","Australia: Eucumbene Trout Farm NSW|06-Feb-2008",NA,NA,NA,NA
-"250","FJ765234","rainbow trout","237511162","DBAE 2005-GIR154|Italy",NA,NA,NA,NA
-"251","FJ998950","rainbow trout","237514262","1-020-02|USA: Oregon|01-Jun-2000","Oncorhynchus mykiss","SSNA1050-08",NA,NA
-"252","FJ998951","rainbow trout","237514264","NFM8-02|USA: California|14-Sep-2008","Oncorhynchus mykiss","SSNA1039-08",NA,NA
-"253","FJ998952","rainbow trout","237514266","4116.009-02|USA: Oregon|18-Apr-2004","Oncorhynchus mykiss","SSNA1045-08",NA,NA
-"254","FJ998953","rainbow trout","237514268","RTAPAK03-7|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA187-08",NA,NA
-"255","FJ998954","rainbow trout","237514270","IDOM07-1|USA: Idaho|01-Jan-2007","Oncorhynchus mykiss","SSNA757-08",NA,NA
-"256","FJ998955","rainbow trout","237514272","RTAPAK03-6|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA186-08",NA,NA
-"257","FJ998956","rainbow trout","237514274","RTAPAK03-2|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA182-08",NA,NA
-"258","FJ998957","rainbow trout","237514276","IDD-11|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA496-08",NA,NA
-"259","FJ998958","rainbow trout","237514278","RTAPAK03-1|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA181-08",NA,NA
-"260","FJ998959","rainbow trout","237514280","RTAPAK03-4|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA184-08",NA,NA
-"261","FJ998960","rainbow trout","237514282","RTAPAK03-5|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA185-08",NA,NA
-"262","FJ998961","rainbow trout","237514284","RTAPAK03-3|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA183-08",NA,NA
-"263","FJ998962","rainbow trout","237514286","01EW-6_2|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA1089-08",NA,NA
-"264","FJ998963","rainbow trout","237514288","IDD-4|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA489-08",NA,NA
-"265","FJ998964","rainbow trout","237514290","RTAPAK03-8|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA188-08",NA,NA
-"266","FJ998965","rainbow trout","237514292","IDD-2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA487-08",NA,NA
-"267","FJ998966","rainbow trout","237514294","05BK-3_2|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA1106-08",NA,NA
-"268","FJ998967","rainbow trout","237514296","RTSWAN07-2|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA192-08",NA,NA
-"269","FJ998968","rainbow trout","237514298","88-89-1|USA: Idaho|21-Sep-2001","Oncorhynchus mykiss","SSNA201-08",NA,NA
-"270","FJ998969","rainbow trout","237514300","RTSWAN07-1|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA191-08",NA,NA
-"271","FJ998970","rainbow trout","237514302","RTAPAK03-9|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA189-08",NA,NA
-"272","FJ998971","rainbow trout","237514304","05BK-2_2|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA1105-08",NA,NA
-"273","FJ998972","rainbow trout","237514306","RTAPAK03-10|USA: Alaska|01-Jan-2003","Oncorhynchus mykiss","SSNA190-08",NA,NA
-"274","FJ998973","rainbow trout","237514308","05BK-1_2|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA1104-08",NA,NA
-"275","FJ998974","rainbow trout","237514310","RTSWAN07-3|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA193-08",NA,NA
-"276","FJ998975","rainbow trout","237514312","RTSWAN07-20|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA200-08",NA,NA
-"277","FJ998976","rainbow trout","237514314","RTSWAN07-19|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA199-08",NA,NA
-"278","FJ998977","rainbow trout","237514316","05BK-9_2|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA1108-08",NA,NA
-"279","FJ998978","rainbow trout","237514318","RTSWAN07-4|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA194-08",NA,NA
-"280","FJ998979","rainbow trout","237514320","RTSWAN07-16|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA196-08",NA,NA
-"281","FJ998980","rainbow trout","237514322","05BK-4_2|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA1107-08",NA,NA
-"282","FJ998981","rainbow trout","237514324","RTSWAN07-18|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA198-08",NA,NA
-"283","FJ998982","rainbow trout","237514326","RTSWAN07-5|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA195-08",NA,NA
-"284","FJ998983","rainbow trout","237514328","RTSWAN07-17|USA: Alaska|01-Jan-2007","Oncorhynchus mykiss","SSNA197-08",NA,NA
-"285","FJ998984","rainbow trout","237514330","640-671-1|USA: Idaho|27-Aug-2003","Oncorhynchus mykiss","SSNA206-08",NA,NA
-"286","FJ998985","rainbow trout","237514332","88-89-3|USA: Idaho|21-Sep-2001","Oncorhynchus mykiss","SSNA203-08",NA,NA
-"287","FJ998986","rainbow trout","237514334","88-89-2|USA: Idaho|21-Sep-2001","Oncorhynchus mykiss","SSNA202-08",NA,NA
-"288","FJ998987","rainbow trout","237514336","1227-1268-3|USA: Idaho|24-Jan-2006","Oncorhynchus mykiss","SSNA213-08",NA,NA
-"289","FJ998988","rainbow trout","237514338","88-89-5|USA: Idaho|21-Sep-2001","Oncorhynchus mykiss","SSNA205-08",NA,NA
-"290","FJ998989","rainbow trout","237514340","04HN-18_2|USA: Washington|01-Jan-2004","Oncorhynchus mykiss","SSNA1137-08",NA,NA
-"291","FJ998990","rainbow trout","237514342","1227-1268-5|USA: Idaho|24-Jan-2006","Oncorhynchus mykiss","SSNA215-08",NA,NA
-"292","FJ998991","rainbow trout","237514344","IDD-3_2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA1145-08",NA,NA
-"293","FJ998992","rainbow trout","237514346","05BB-20_2|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA1144-08",NA,NA
-"294","FJ998993","rainbow trout","237514348","1227-1268-4|USA: Idaho|24-Jan-2006","Oncorhynchus mykiss","SSNA214-08",NA,NA
-"295","FJ998994","rainbow trout","237514350","88-89-4|USA: Idaho|21-Sep-2001","Oncorhynchus mykiss","SSNA204-08",NA,NA
-"296","FJ998995","rainbow trout","237514352","1227-1268-2|USA: Idaho|24-Jan-2006","Oncorhynchus mykiss","SSNA212-08",NA,NA
-"297","FJ998996","rainbow trout","237514354","IDD-5_2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA1146-08",NA,NA
-"298","FJ998997","rainbow trout","237514356","640-671-8|USA: Idaho|27-Aug-2003","Oncorhynchus mykiss","SSNA209-08",NA,NA
-"299","FJ998998","rainbow trout","237514358","IDD-15_2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA1149-08",NA,NA
-"300","FJ998999","rainbow trout","237514360","640-671-4|USA: Idaho|27-Aug-2003","Oncorhynchus mykiss","SSNA208-08",NA,NA
-"301","FJ999000","rainbow trout","237514362","IDD-8_2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA1148-08",NA,NA
-"302","FJ999001","rainbow trout","237514364","1227-1268-1|USA: Idaho|24-Jan-2006","Oncorhynchus mykiss","SSNA211-08",NA,NA
-"303","FJ999002","rainbow trout","237514366","IDD-6_2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA1147-08",NA,NA
-"304","FJ999003","rainbow trout","237514368","640-671-2|USA: Idaho|27-Aug-2003","Oncorhynchus mykiss","SSNA207-08",NA,NA
-"305","FJ999004","rainbow trout","237514370","IDTL-15_2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA1151-08",NA,NA
-"306","FJ999005","rainbow trout","237514372","640-671-12|USA: Idaho|27-Aug-2003","Oncorhynchus mykiss","SSNA210-08",NA,NA
-"307","FJ999006","rainbow trout","237514374","IDTL-12_2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA1150-08",NA,NA
-"308","FJ999007","rainbow trout","237514376","1778-1947-103|USA: Idaho|04-Sep-2007","Oncorhynchus mykiss","SSNA218-08",NA,NA
-"309","FJ999008","rainbow trout","237514378","1778-1947-102|USA: Idaho|04-Sep-2007","Oncorhynchus mykiss","SSNA217-08",NA,NA
-"310","FJ999009","rainbow trout","237514380","1778-1947-101|USA: Idaho|04-Sep-2007","Oncorhynchus mykiss","SSNA216-08",NA,NA
-"311","FJ999010","rainbow trout","237514382","9929.129_2|USA: Oregon|04-Oct-1999","Oncorhynchus mykiss","SSNA1196-08",NA,NA
-"312","FJ999011","rainbow trout","237514384","9929.094_2|USA: Oregon|20-Sep-1999","Oncorhynchus mykiss","SSNA1195-08",NA,NA
-"313","FJ999012","rainbow trout","237514386","1778-1947-104|USA: Idaho|04-Sep-2007","Oncorhynchus mykiss","SSNA219-08",NA,NA
-"314","FJ999013","rainbow trout","237514388","01EW-7|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA332-08",NA,NA
-"315","FJ999014","rainbow trout","237514390","01EW-3|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA328-08",NA,NA
-"316","FJ999015","rainbow trout","237514392","01EW-1|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA326-08",NA,NA
-"317","FJ999016","rainbow trout","237514394","01EW-2|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA327-08",NA,NA
-"318","FJ999017","rainbow trout","237514396","01EW-4|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA329-08",NA,NA
-"319","FJ999018","rainbow trout","237514398","01EW-8|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA333-08",NA,NA
-"320","FJ999019","rainbow trout","237514400","01EW-5|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA330-08",NA,NA
-"321","FJ999020","rainbow trout","237514402","01EW-9|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA334-08",NA,NA
-"322","FJ999021","rainbow trout","237514404","01EW-10|USA: Washington|01-Jan-2001","Oncorhynchus mykiss","SSNA335-08",NA,NA
-"323","FJ999022","rainbow trout","237514406","IDD-7|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA492-08",NA,NA
-"324","FJ999023","rainbow trout","237514408","OROM08-5|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA736-08",NA,NA
-"325","FJ999024","rainbow trout","237514410","9929.111|USA: Oregon|01-Oct-1999","Oncorhynchus mykiss","SSNA895-08",NA,NA
-"326","FJ999025","rainbow trout","237514412","4116.006|USA: Oregon|23-Feb-2004","Oncorhynchus mykiss","SSNA884-08",NA,NA
-"327","FJ999026","rainbow trout","237514414","IDD-10|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA495-08",NA,NA
-"328","FJ999027","rainbow trout","237514416","4116.004|USA: Oregon|02-Oct-2004","Oncorhynchus mykiss","SSNA883-08",NA,NA
-"329","FJ999028","rainbow trout","237514418","313.035|USA: Oregon|23-Apr-2003","Oncorhynchus mykiss","SSNA868-08",NA,NA
-"330","FJ999029","rainbow trout","237514420","313.034|USA: Oregon|23-Apr-2003","Oncorhynchus mykiss","SSNA867-08",NA,NA
-"331","FJ999030","rainbow trout","237514422","313.016|USA: Oregon|10-Apr-2003","Oncorhynchus mykiss","SSNA866-08",NA,NA
-"332","FJ999031","rainbow trout","237514424","313.002|USA: Oregon|19-Feb-2003","Oncorhynchus mykiss","SSNA864-08",NA,NA
-"333","FJ999032","rainbow trout","237514426","313.015|USA: Oregon|10-Apr-2003","Oncorhynchus mykiss","SSNA865-08",NA,NA
-"334","FJ999033","rainbow trout","237514428","113.001|USA: Oregon|15-Jun-2001","Oncorhynchus mykiss","SSNA863-08",NA,NA
-"335","FJ999034","rainbow trout","237514430","4116.003|USA: Oregon|02-Oct-2004","Oncorhynchus mykiss","SSNA882-08",NA,NA
-"336","FJ999035","rainbow trout","237514432","3116.131|USA: Oregon|17-Oct-2003","Oncorhynchus mykiss","SSNA876-08",NA,NA
-"337","FJ999036","rainbow trout","237514434","3116.13|USA: Oregon|17-Oct-2003","Oncorhynchus mykiss","SSNA875-08",NA,NA
-"338","FJ999037","rainbow trout","237514436","313.042|USA: Oregon|30-Apr-2003","Oncorhynchus mykiss","SSNA869-08",NA,NA
-"339","FJ999038","rainbow trout","237514438","313.043|USA: Oregon|30-Apr-2003","Oncorhynchus mykiss","SSNA870-08",NA,NA
-"340","FJ999039","rainbow trout","237514440","3116.106|USA: Oregon|25-Jun-2003","Oncorhynchus mykiss","SSNA874-08",NA,NA
-"341","FJ999040","rainbow trout","237514442","3116.105|USA: Oregon|25-Jun-2003","Oncorhynchus mykiss","SSNA873-08",NA,NA
-"342","FJ999041","rainbow trout","237514444","3116.013|USA: Oregon|20-Mar-2003","Oncorhynchus mykiss","SSNA872-08",NA,NA
-"343","FJ999042","rainbow trout","237514446","3116.012|USA: Oregon|20-Mar-2003","Oncorhynchus mykiss","SSNA871-08",NA,NA
-"344","FJ999043","rainbow trout","237514448","3116.157|USA: Oregon|01-Mar-2003","Oncorhynchus mykiss","SSNA878-08",NA,NA
-"345","FJ999044","rainbow trout","237514450","3116.156|USA: Oregon|28-Feb-2003","Oncorhynchus mykiss","SSNA877-08",NA,NA
-"346","FJ999045","rainbow trout","237514452","3116.164|USA: Oregon|27-Sep-2003","Oncorhynchus mykiss","SSNA879-08",NA,NA
-"347","FJ999046","rainbow trout","237514454","4116.002|USA: Oregon|09-Dec-2004","Oncorhynchus mykiss","SSNA881-08",NA,NA
-"348","FJ999047","rainbow trout","237514456","3116.165|USA: Oregon|27-Sep-2003","Oncorhynchus mykiss","SSNA880-08",NA,NA
-"349","FJ999048","rainbow trout","237514458","OROM08-4|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA735-08",NA,NA
-"350","FJ999049","rainbow trout","237514460","4116.007|USA: Oregon|23-Feb-2004","Oncorhynchus mykiss","SSNA885-08",NA,NA
-"351","FJ999050","rainbow trout","237514462","9929.02|USA: Oregon|04-Aug-1999","Oncorhynchus mykiss","SSNA888-08",NA,NA
-"352","FJ999051","rainbow trout","237514464","9929.019|USA: Oregon|04-Aug-1999","Oncorhynchus mykiss","SSNA887-08",NA,NA
-"353","FJ999052","rainbow trout","237514466","9929.093|USA: Oregon|20-Sep-1999","Oncorhynchus mykiss","SSNA893-08",NA,NA
-"354","FJ999053","rainbow trout","237514468","9929.09|USA: Oregon|20-Sep-1999","Oncorhynchus mykiss","SSNA891-08",NA,NA
-"355","FJ999054","rainbow trout","237514470","OROM08-3|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA734-08",NA,NA
-"356","FJ999055","rainbow trout","237514472","9929.038|USA: Oregon|11-Aug-1999","Oncorhynchus mykiss","SSNA890-08",NA,NA
-"357","FJ999056","rainbow trout","237514474","9929.037|USA: Oregon|11-Aug-1999","Oncorhynchus mykiss","SSNA889-08",NA,NA
-"358","FJ999057","rainbow trout","237514476","OROM08-2|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA733-08",NA,NA
-"359","FJ999058","rainbow trout","237514478","9929.091|USA: Oregon|20-Sep-1999","Oncorhynchus mykiss","SSNA892-08",NA,NA
-"360","FJ999059","rainbow trout","237514480","OROM08-1|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA732-08",NA,NA
-"361","FJ999060","rainbow trout","237514482","143.053|USA: Oregon|20-Feb-2001","Oncorhynchus mykiss","SSNA903-08",NA,NA
-"362","FJ999061","rainbow trout","237514484","9929.12|USA: Oregon|01-Oct-1999","Oncorhynchus mykiss","SSNA898-08",NA,NA
-"363","FJ999062","rainbow trout","237514486","9929.119|USA: Oregon|01-Oct-1999","Oncorhynchus mykiss","SSNA897-08",NA,NA
-"364","FJ999063","rainbow trout","237514488","9929.112|USA: Oregon|01-Oct-1999","Oncorhynchus mykiss","SSNA896-08",NA,NA
-"365","FJ999064","rainbow trout","237514490","9929.121|USA: Oregon|04-Oct-1999","Oncorhynchus mykiss","SSNA899-08",NA,NA
-"366","FJ999065","rainbow trout","237514492","OROM08-7|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA738-08",NA,NA
-"367","FJ999066","rainbow trout","237514494","143.052|USA: Oregon|20-Feb-2001","Oncorhynchus mykiss","SSNA902-08",NA,NA
-"368","FJ999067","rainbow trout","237514496","OROM08-6|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA737-08",NA,NA
-"369","FJ999068","rainbow trout","237514498","9929.13|USA: Oregon|04-Oct-1999","Oncorhynchus mykiss","SSNA901-08",NA,NA
-"370","FJ999069","rainbow trout","237514500","OROM08-8|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA739-08",NA,NA
-"371","FJ999070","rainbow trout","237514502","OROM08-10|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA741-08",NA,NA
-"372","FJ999071","rainbow trout","237514504","OROM08-9|USA: Oregon|07-Jan-2008","Oncorhynchus mykiss","SSNA740-08",NA,NA
-"373","FJ999072","rainbow trout","237514506","4-075|USA: Oregon|02-Jan-2000","Oncorhynchus mykiss","SSNA907-08",NA,NA
-"374","FJ999073","rainbow trout","237514508","1-019|USA: Oregon|01-Jun-2000","Oncorhynchus mykiss","SSNA904-08",NA,NA
-"375","FJ999074","rainbow trout","237514510","4-074|USA: Oregon|31-Jan-2000","Oncorhynchus mykiss","SSNA906-08",NA,NA
-"376","FJ999075","rainbow trout","237514512","IDD-9|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA494-08",NA,NA
-"377","FJ999076","rainbow trout","237514514","IDTL-2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA517-08",NA,NA
-"378","FJ999077","rainbow trout","237514516","IDBC-9|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA509-08",NA,NA
-"379","FJ999078","rainbow trout","237514518","NFM7|USA: California|14-Sep-2008","Oncorhynchus mykiss","SSNA1034-08",NA,NA
-"380","FJ999079","rainbow trout","237514520","IDCSF-10|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA540-08",NA,NA
-"381","FJ999080","rainbow trout","237514522","IDBC-8|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA508-08",NA,NA
-"382","FJ999081","rainbow trout","237514524","IDD-12|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA497-08",NA,NA
-"383","FJ999082","rainbow trout","237514526","04HN-3|USA: Washington|01-Jan-2004","Oncorhynchus mykiss","SSNA468-08",NA,NA
-"384","FJ999083","rainbow trout","237514528","IDBC-7|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA507-08",NA,NA
-"385","FJ999084","rainbow trout","237514530","IDBC-6|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA506-08",NA,NA
-"386","FJ999085","rainbow trout","237514532","IDD-14|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA499-08",NA,NA
-"387","FJ999086","rainbow trout","237514534","IDD-13|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA498-08",NA,NA
-"388","FJ999087","rainbow trout","237514536","IDBC-5|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA505-08",NA,NA
-"389","FJ999088","rainbow trout","237514538","IDBC-1|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA501-08",NA,NA
-"390","FJ999089","rainbow trout","237514540","IDBC-4|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA504-08",NA,NA
-"391","FJ999090","rainbow trout","237514542","IDBC-2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA502-08",NA,NA
-"392","FJ999091","rainbow trout","237514544","IDBC-3|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA503-08",NA,NA
-"393","FJ999092","rainbow trout","237514546","05BK-10|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA405-08",NA,NA
-"394","FJ999093","rainbow trout","237514548","IDBC-15|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA515-08",NA,NA
-"395","FJ999094","rainbow trout","237514550","IDBC-14|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA514-08",NA,NA
-"396","FJ999095","rainbow trout","237514552","05BK-6|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA401-08",NA,NA
-"397","FJ999096","rainbow trout","237514554","05BK-5|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA400-08",NA,NA
-"398","FJ999097","rainbow trout","237514556","IDTL-1|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA516-08",NA,NA
-"399","FJ999098","rainbow trout","237514558","IDBC-13|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA513-08",NA,NA
-"400","FJ999099","rainbow trout","237514560","IDBC-12|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA512-08",NA,NA
-"401","FJ999100","rainbow trout","237514562","IDBC-11|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA511-08",NA,NA
-"402","FJ999101","rainbow trout","237514564","IDBC-10|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA510-08",NA,NA
-"403","FJ999102","rainbow trout","237514566","05BK-8|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA403-08",NA,NA
-"404","FJ999103","rainbow trout","237514568","05BK-7|USA: Washington|01-Jan-2005","Oncorhynchus mykiss","SSNA402-08",NA,NA
-"405","FJ999104","rainbow trout","237514570","IDCSF-2|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA532-08",NA,NA
-"406","FJ999105","rainbow trout","237514572","NFM5|USA: California|01-Sep-2008","Oncorhynchus mykiss","SSNA1032-08",NA,NA
-"407","FJ999106","rainbow trout","237514574","M025708|USA: California|14-Dec-2004","Oncorhynchus mykiss","SSNA1003-08",NA,NA
-"408","FJ999107","rainbow trout","237514576","NFM1|USA: California|09-Mar-2008","Oncorhynchus mykiss","SSNA1028-08",NA,NA
-"409","FJ999108","rainbow trout","237514578","NFM6|USA: California|14-Sep-2008","Oncorhynchus mykiss","SSNA1033-08",NA,NA
-"410","FJ999109","rainbow trout","237514580","IDCSF-9|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA539-08",NA,NA
-"411","FJ999110","rainbow trout","237514582","M013795|USA: California|26-Jan-2003","Oncorhynchus mykiss","SSNA1002-08",NA,NA
-"412","FJ999111","rainbow trout","237514584","M013794|USA: California|02-Jan-2003","Oncorhynchus mykiss","SSNA1001-08",NA,NA
-"413","FJ999112","rainbow trout","237514586","M013793|USA: California|02-Jan-2003","Oncorhynchus mykiss","SSNA1000-08",NA,NA
-"414","FJ999113","rainbow trout","237514588","M013789|USA: California|14-Jan-2003","Oncorhynchus mykiss","SSNA996-08",NA,NA
-"415","FJ999114","rainbow trout","237514590","M013788|USA: California|14-Jan-2003","Oncorhynchus mykiss","SSNA995-08",NA,NA
-"416","FJ999115","rainbow trout","237514592","M013792|USA: California|02-Jan-2003","Oncorhynchus mykiss","SSNA999-08",NA,NA
-"417","FJ999116","rainbow trout","237514594","M013791|USA: California|02-Jan-2003","Oncorhynchus mykiss","SSNA998-08",NA,NA
-"418","FJ999117","rainbow trout","237514596","M013790|USA: California|14-Jan-2003","Oncorhynchus mykiss","SSNA997-08",NA,NA
-"419","FJ999118","rainbow trout","237514598","M028950|USA: California|28-Jan-2005","Oncorhynchus mykiss","SSNA1013-08",NA,NA
-"420","FJ999119","rainbow trout","237514600","IDTL-3|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA518-08",NA,NA
-"421","FJ999120","rainbow trout","237514602","SPC1|USA: California|09-Apr-2008","Oncorhynchus mykiss","SSNA1027-08",NA,NA
-"422","FJ999121","rainbow trout","237514604","M028949|USA: California|28-Jan-2005","Oncorhynchus mykiss","SSNA1012-08",NA,NA
-"423","FJ999122","rainbow trout","237514606","M025715|USA: California|14-Dec-2004","Oncorhynchus mykiss","SSNA1010-08",NA,NA
-"424","FJ999123","rainbow trout","237514608","M025709|USA: California|14-Dec-2004","Oncorhynchus mykiss","SSNA1004-08",NA,NA
-"425","FJ999124","rainbow trout","237514610","M025714|USA: California|14-Dec-2004","Oncorhynchus mykiss","SSNA1009-08",NA,NA
-"426","FJ999125","rainbow trout","237514612","M025713|USA: California|14-Dec-2004","Oncorhynchus mykiss","SSNA1008-08",NA,NA
-"427","FJ999126","rainbow trout","237514614","M025712|USA: California|14-Dec-2004","Oncorhynchus mykiss","SSNA1007-08",NA,NA
-"428","FJ999127","rainbow trout","237514616","M025710|USA: California|14-Dec-2004","Oncorhynchus mykiss","SSNA1005-08",NA,NA
-"429","FJ999128","rainbow trout","237514618","M025711|USA: California|14-Dec-2004","Oncorhynchus mykiss","SSNA1006-08",NA,NA
-"430","FJ999129","rainbow trout","237514620","M028948|USA: California|28-Jan-2005","Oncorhynchus mykiss","SSNA1011-08",NA,NA
-"431","FJ999130","rainbow trout","237514622","M028955|USA: California|29-Jan-2005","Oncorhynchus mykiss","SSNA1018-08",NA,NA
-"432","FJ999131","rainbow trout","237514624","M028954|USA: California|29-Jan-2005","Oncorhynchus mykiss","SSNA1017-08",NA,NA
-"433","FJ999132","rainbow trout","237514626","M028951|USA: California|28-Jan-2005","Oncorhynchus mykiss","SSNA1014-08",NA,NA
-"434","FJ999133","rainbow trout","237514628","M028953|USA: California|28-Jan-2005","Oncorhynchus mykiss","SSNA1016-08",NA,NA
-"435","FJ999134","rainbow trout","237514630","M028952|USA: California|28-Jan-2005","Oncorhynchus mykiss","SSNA1015-08",NA,NA
-"436","FJ999135","rainbow trout","237514632","NFM3|USA: California|09-Mar-2008","Oncorhynchus mykiss","SSNA1030-08",NA,NA
-"437","FJ999136","rainbow trout","237514634","IDCSF-1|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA531-08",NA,NA
-"438","FJ999137","rainbow trout","237514636","NFM4|USA: California|01-Sep-2008","Oncorhynchus mykiss","SSNA1031-08",NA,NA
-"439","FJ999138","rainbow trout","237514638","NFM2|USA: California|09-Mar-2008","Oncorhynchus mykiss","SSNA1029-08",NA,NA
-"440","FJ999139","rainbow trout","237514640","IDTL-6|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA521-08",NA,NA
-"441","FJ999140","rainbow trout","237514642","IDTL-5|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA520-08",NA,NA
-"442","FJ999141","rainbow trout","237514644","IDTL-4|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA519-08",NA,NA
-"443","FJ999142","rainbow trout","237514646","IDTL-14|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA529-08",NA,NA
-"444","FJ999143","rainbow trout","237514648","IDTL-10|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA525-08",NA,NA
-"445","FJ999144","rainbow trout","237514650","IDTL-9|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA524-08",NA,NA
-"446","FJ999145","rainbow trout","237514652","IDTL-8|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA523-08",NA,NA
-"447","FJ999146","rainbow trout","237514654","IDTL-7|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA522-08",NA,NA
-"448","FJ999147","rainbow trout","237514656","IDTL-13|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA528-08",NA,NA
-"449","FJ999148","rainbow trout","237514658","IDTL-11|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA526-08",NA,NA
-"450","FJ999149","rainbow trout","237514660","IDCSF-8|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA538-08",NA,NA
-"451","FJ999150","rainbow trout","237514662","IDCSF-4|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA534-08",NA,NA
-"452","FJ999151","rainbow trout","237514664","IDCSF-3|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA533-08",NA,NA
-"453","FJ999152","rainbow trout","237514666","IDCSF-7|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA537-08",NA,NA
-"454","FJ999153","rainbow trout","237514668","IDCSF-6|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA536-08",NA,NA
-"455","FJ999154","rainbow trout","237514670","IDCSF-5|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA535-08",NA,NA
-"456","FJ999155","rainbow trout","237514672","IDCSF-11|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA541-08",NA,NA
-"457","FJ999156","rainbow trout","237514674","04HN-2|USA: Washington|01-Jan-2004","Oncorhynchus mykiss","SSNA467-08",NA,NA
-"458","FJ999157","rainbow trout","237514676","IDCSF-12|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA542-08",NA,NA
-"459","FJ999158","rainbow trout","237514678","04HN-1|USA: Washington|01-Jan-2004","Oncorhynchus mykiss","SSNA466-08",NA,NA
-"460","FJ999159","rainbow trout","237514680","IDCSF-15|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA545-08",NA,NA
-"461","FJ999160","rainbow trout","237514682","IDCSF-14|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA544-08",NA,NA
-"462","FJ999161","rainbow trout","237514684","IDCSF-13|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA543-08",NA,NA
-"463","FJ999162","rainbow trout","237514686","IDD-1|USA: Idaho|01-Jan-2008","Oncorhynchus mykiss","SSNA486-08",NA,NA
-"464","FJ999163","rainbow trout","237514688","04HN-20|USA: Washington|01-Jan-2004","Oncorhynchus mykiss","SSNA475-08",NA,NA
-"465","FJ999164","rainbow trout","237514690","04HN-19|USA: Washington|01-Jan-2004","Oncorhynchus mykiss","SSNA474-08",NA,NA
-"466","FJ999165","rainbow trout","237514692","04HN-11|USA: Washington|01-Jan-2004","Oncorhynchus mykiss","SSNA471-08",NA,NA
-"467","FJ999166","rainbow trout","237514694","04HN-17|USA: Washington|01-Jan-2004","Oncorhynchus mykiss","SSNA472-08",NA,NA
-"468","GU018123","rainbow trout","307591049","T1-Mkt",NA,NA,NA,NA
-"469","GU207327","rainbow trout","281337071","Omy2001aYamagata-Suishi|Japan|Cultured in Yamagata Fisheries|Mikio Kato","Oncorhynchus mykiss","GBGCA607-10",NA,NA
-"470","GU207343","rainbow trout","281337103","Omy2001bYamagata-Suishi|Japan|Cultured in Yamagata Fisheries|Mikio Kato","Oncorhynchus mykiss","GBGCA591-10",NA,NA
-"471","GU324144","rainbow trout","289546306","DAAPV F12|commercial purchased sample; source organism represents species indicated on label|Italy|tissue and DNA archived at the University of Padua, Campus of Agripolis, Department of Environmental Agronomy and Crop Science",NA,NA,NA,NA
-"472","GU324178","rainbow trout","289546347","DAAPV F12|commercial purchased sample; source organism represents species indicated on label|Italy|tissue and DNA archived at the University of Padua, Campus of Agripolis, Department of Environmental Agronomy and Crop Science","Oncorhynchus mykiss","GBGCA558-10",NA,NA
-"473","GU324213","rainbow trout","289546417","DAAPV F12|commercial purchased sample; source organism represents species indicated on label|Italy|tissue and DNA archived at the University of Padua, Campus of Agripolis, Department of Environmental Agronomy and Crop Science",NA,NA,NA,NA
-"474","GU440434","rainbow trout","294989192","MFC410|USA: California, Trinity Co., near Trinity River|40.717 N 122.80 W|PA Nelson|Philip A. Hastings","Oncorhynchus mykiss","MFC409-08",40.717,-122.8
-"475","HG799088","Macquarie perch","594009716","MP_C1|male|Australia:Mitta Mitta River Inflow, Dartmouth Lake|27-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"476","HM229293","rainbow trout","299735142","MYS01A",NA,NA,NA,NA
-"477","HM229294","rainbow trout","299735143","MYS01B",NA,NA,NA,NA
-"478","HM229295","rainbow trout","299735144","MYS01C",NA,NA,NA,NA
-"479","HM229296","rainbow trout","299735145","MYS01D",NA,NA,NA,NA
-"480","HM229297","rainbow trout","299735146","MYS01E",NA,NA,NA,NA
-"481","HM229298","rainbow trout","299735147","MYS01F",NA,NA,NA,NA
-"482","HM229299","rainbow trout","299735148","MYS01G",NA,NA,NA,NA
-"483","HM229300","rainbow trout","299735149","MYS01H",NA,NA,NA,NA
-"484","HM229301","rainbow trout","299735150","MYS01I",NA,NA,NA,NA
-"485","HM229302","rainbow trout","299735151","MYS01J",NA,NA,NA,NA
-"486","HM229303","rainbow trout","299735152","MYS01K",NA,NA,NA,NA
-"487","HM229304","rainbow trout","299735153","MYS03A",NA,NA,NA,NA
-"488","HM229305","rainbow trout","299735154","MYS03B",NA,NA,NA,NA
-"489","HM229306","rainbow trout","299735155","MYS03C",NA,NA,NA,NA
-"490","HM229307","rainbow trout","299735156","MYS05",NA,NA,NA,NA
-"491","HM229308","rainbow trout","299735157","MYS08",NA,NA,NA,NA
-"492","HM229309","rainbow trout","299735158","MYS09",NA,NA,NA,NA
-"493","HM229310","rainbow trout","299735159","MYS10",NA,NA,NA,NA
-"494","HM229311","rainbow trout","299735160","MYS12A",NA,NA,NA,NA
-"495","HM229312","rainbow trout","299735161","MYS12B",NA,NA,NA,NA
-"496","HM229313","rainbow trout","299735162","MYS12C",NA,NA,NA,NA
-"497","HM229314","rainbow trout","299735163","MYS12D",NA,NA,NA,NA
-"498","HM229315","rainbow trout","299735164","MYS12E",NA,NA,NA,NA
-"499","HM229316","rainbow trout","299735165","MYS21",NA,NA,NA,NA
-"500","HM229317","rainbow trout","299735166","MYS22",NA,NA,NA,NA
-"501","HM229318","rainbow trout","299735167","MYS25",NA,NA,NA,NA
-"502","HM229319","rainbow trout","299735168","MYS27",NA,NA,NA,NA
-"503","HM229320","rainbow trout","299735169","MYS28",NA,NA,NA,NA
-"504","HM229321","rainbow trout","299735170","NEW01",NA,NA,NA,NA
-"505","HM229322","rainbow trout","299735171","NEW02",NA,NA,NA,NA
-"506","HM229323","rainbow trout","299735172","NEW03",NA,NA,NA,NA
-"507","HM229324","rainbow trout","299735173","NEW04",NA,NA,NA,NA
-"508","HM229325","rainbow trout","299735174","NEW05",NA,NA,NA,NA
-"509","HM229326","rainbow trout","299735175","NEW06",NA,NA,NA,NA
-"510","HM229327","rainbow trout","299735176","NEW6A",NA,NA,NA,NA
-"511","HM229328","rainbow trout","299735177","NEW07",NA,NA,NA,NA
-"512","HM229329","rainbow trout","299735178","NEW08",NA,NA,NA,NA
-"513","HM229330","rainbow trout","299735179","NEW09",NA,NA,NA,NA
-"514","HM452167","rainbow trout","299474089","UGS2010Waki2","Oncorhynchus mykiss","ANGBF9227-12",NA,NA
-"515","HQ142651","rainbow trout","307543447","1",NA,NA,NA,NA
-"516","HQ142652","rainbow trout","307543449","2",NA,NA,NA,NA
-"517","HQ142653","rainbow trout","307543450","3",NA,NA,NA,NA
-"518","HQ142654","rainbow trout","307543451","4",NA,NA,NA,NA
-"519","HQ142655","rainbow trout","307543453","5",NA,NA,NA,NA
-"520","HQ142656","rainbow trout","307543455","6",NA,NA,NA,NA
-"521","HQ167664","rainbow trout","307640017","Om001|Turkey",NA,NA,NA,NA
-"522","HQ167670","rainbow trout","307639920","Om002|Turkey",NA,NA,NA,NA
-"523","HQ167676","rainbow trout","307639992","Om003|Turkey",NA,NA,NA,NA
-"524","HQ167682","rainbow trout","307639874","Om004|Turkey","Oncorhynchus mykiss","ANGBF1306-12",NA,NA
-"525","HQ167688","rainbow trout","307639801","Om005|Turkey",NA,NA,NA,NA
-"526","HQ167694","rainbow trout","307639962","Om006|Turkey",NA,NA,NA,NA
-"527","HQ167700","rainbow trout","307640010","Om007|Turkey",NA,NA,NA,NA
-"528","HQ339969","rainbow trout","310690130","RTgil355|07-Dec-2007","Oncorhynchus mykiss","CCLF001-08",NA,NA
-"529","HQ339970","rainbow trout","310690132","RTL.Wl290|07-Dec-2007","Oncorhynchus mykiss","CCLF002-08",NA,NA
-"530","HQ339974","rainbow trout","310690140","RTB.87|07-Dec-2007","Oncorhynchus mykiss","CCLF006-08",NA,NA
-"531","HQ339981","rainbow trout","310690154","ATS11","Oncorhynchus mykiss","CCLF014-08",NA,NA
-"532","HQ339982","rainbow trout","310690156","RTgut","Oncorhynchus mykiss","CCLF015-08",NA,NA
-"533","HQ339985","rainbow trout","310690162","RTS-11-119","Oncorhynchus mykiss","CCLF021-09",NA,NA
-"534","HQ339987","rainbow trout","310690166","RTgut-2","Oncorhynchus mykiss","CCLF024-09",NA,NA
-"535","HQ592248","rainbow trout","315019156","OMTS116S|muscle tissue|South Africa|2008",NA,NA,NA,NA
-"536","HQ592249","rainbow trout","315019157","OMTS216S|muscle tissue|South Africa|2008",NA,NA,NA,NA
-"537","HQ592250","rainbow trout","315019158","7159516S|muscle tissue|South Africa|2010",NA,NA,NA,NA
-"538","HQ592289","rainbow trout","332802174","OMTS1|muscle tissue|2008",NA,NA,NA,NA
-"539","HQ592290","rainbow trout","332802175","OMTS2|muscle tissue|2008",NA,NA,NA,NA
-"540","HQ592291","rainbow trout","332802176","71595|muscle tissue|2010",NA,NA,NA,NA
-"541","HQ611123","rainbow trout","315019066","71595|muscle tissue|South Africa|30-Jun-2010|Donna Cawthorn","Oncorhynchus mykiss","ANGBF7153-12",NA,NA
-"542","HQ611124","rainbow trout","315019068","OMTS1|muscle tissue|South Africa|12-Dec-2008|Donna Cawthorn|Gregg Stubbs","Oncorhynchus mykiss","ANGBF7063-12",NA,NA
-"543","HQ611125","rainbow trout","315019070","OMTS2|muscle tissue|South Africa|12-Dec-2008|Donna Cawthorn|Gregg Stubbs","Oncorhynchus mykiss","ANGBF7152-12",NA,NA
-"544","HQ615443","Macquarie perch","312452305","Australia: Cotter River ACT|21-May-2009",NA,NA,NA,NA
-"545","HQ615444","Macquarie perch","312452306","NSW Department of Primary Industries 2330|Australia: Little River, Nattai NSW|24-Jun-2009",NA,NA,NA,NA
-"546","HQ615445","Macquarie perch","312452307","Australia: Cordeaux Dam NSW|13-Nov-2007",NA,NA,NA,NA
-"547","HQ615499","Macquarie perch","312452361","Australia: Cotter River ACT|21-May-2009",NA,NA,NA,NA
-"548","HQ615500","Macquarie perch","312452362","NSW Department of Primary Industries 2330|Australia: Little River, Nattai NSW|24-Jun-2009",NA,NA,NA,NA
-"549","HQ615501","Macquarie perch","312452363","NSW Department of Primary Industries 2331|Australia: Little River, Nattai NSW|26-Jun-2009",NA,NA,NA,NA
-"550","HQ615502","Macquarie perch","312452364","Australia: Cordeaux Dam NSW|13-Nov-2007",NA,NA,NA,NA
-"551","HQ682186","rainbow trout","319430316","MYS-30",NA,NA,NA,NA
-"552","HQ682187","rainbow trout","319430317","MYS-31",NA,NA,NA,NA
-"553","HQ682188","rainbow trout","319430318","MYS-32",NA,NA,NA,NA
-"554","HQ682189","rainbow trout","319430319","MYS-33",NA,NA,NA,NA
-"555","HQ960465","rainbow trout","321118217","IFCZE0103|Czech Republic|48.77 N 14.098 E|06-Aug-2009|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE049-10",48.77,14.098
-"556","HQ960466","rainbow trout","321118219","IFCZE0104|Czech Republic|48.77 N 14.098 E|06-Aug-2009|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE050-10",48.77,14.098
-"557","HQ960729","rainbow trout","321118745","IFCZE0587|Czech Republic|50.542 N 15.087 E|21-Jun-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE329-10",50.542,15.087
-"558","HQ960730","rainbow trout","321118747","IFCZE0588|Czech Republic|50.161 N 15.813 E|22-Jun-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE330-10",50.161,15.813
-"559","HQ960785","rainbow trout","321118857","IFCZE0652|Czech Republic|49.586 N 18.533 E|11-Aug-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE387-10",49.586,18.533
-"560","HQ960786","rainbow trout","321118859","IFCZE0653|Czech Republic|49.586 N 18.533 E|11-Aug-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE388-10",49.586,18.533
-"561","HQ960787","rainbow trout","321118861","IFCZE0654|Czech Republic|49.586 N 18.533 E|11-Aug-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE389-10",49.586,18.533
-"562","HQ960788","rainbow trout","321118863","IFCZE0655|Czech Republic|49.716 N 18.294 E|11-Aug-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE390-10",49.716,18.294
-"563","HQ960789","rainbow trout","321118865","IFCZE0656|Czech Republic|49.716 N 18.294 E|11-Aug-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE391-10",49.716,18.294
-"564","HQ960890","rainbow trout","321119067","IFCZE0764|Czech Republic|49.354 N 16.189 E|19-Aug-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE495-10",49.354,16.189
-"565","HQ960891","rainbow trout","321119069","IFCZE0765|Czech Republic|49.468 N 18.172 E|19-Aug-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE496-10",49.468,18.172
-"566","HQ960892","rainbow trout","321119071","IFCZE0766|Czech Republic|49.468 N 18.172 E|19-Aug-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE497-10",49.468,18.172
-"567","HQ961045","rainbow trout","321119377","IFCZE0929|Czech Republic|50.21 N 13.068 E|13-Oct-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE653-10",50.21,13.068
-"568","HQ961046","rainbow trout","321119379","IFCZE0930|Czech Republic|50.21 N 13.068 E|13-Oct-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE654-10",50.21,13.068
-"569","HQ961047","rainbow trout","321119381","IFCZE0931|Czech Republic|50.21 N 13.068 E|13-Oct-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE655-10",50.21,13.068
-"570","HQ961048","rainbow trout","321119383","IFCZE0932|Czech Republic|50.21 N 13.068 E|13-Oct-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE656-10",50.21,13.068
-"571","HQ961049","rainbow trout","321119385","IFCZE0933|Czech Republic|50.21 N 13.068 E|13-Oct-2010|Karel Halacka, Lukas Vetesnik, Radek Sanda","Oncorhynchus mykiss","IFCZE657-10",50.21,13.068
-"572","JF795532","rainbow trout","334191623","Ir1",NA,NA,NA,NA
-"573","JF795533","rainbow trout","334191624","Ir3",NA,NA,NA,NA
-"574","JF795534","rainbow trout","334191625","Ir4",NA,NA,NA,NA
-"575","JF795535","rainbow trout","334191626","Ir2",NA,NA,NA,NA
-"576","JF795536","rainbow trout","334191627","Ir5",NA,NA,NA,NA
-"577","JN129452","rainbow trout","355398217","A",NA,NA,NA,NA
-"578","JN129453","rainbow trout","355398218","B",NA,NA,NA,NA
-"579","JN129454","rainbow trout","355398219","C",NA,NA,NA,NA
-"580","JN129455","rainbow trout","355398220","D",NA,NA,NA,NA
-"581","JX960813","rainbow trout","408833693","#49",NA,NA,NA,NA
-"582","JX960814","rainbow trout","408833695","#50",NA,NA,NA,NA
-"583","JX960815","rainbow trout","408833697","#51",NA,NA,NA,NA
-"584","JX960920","rainbow trout","408833907","#49","Oncorhynchus mykiss","GBGCA3708-13",NA,NA
-"585","JX960921","rainbow trout","408833909","#50","Oncorhynchus mykiss","GBGCA3707-13",NA,NA
-"586","JX960922","rainbow trout","408833911","#51","Oncorhynchus mykiss","GBGCA3706-13",NA,NA
-"587","KF013243","rainbow trout","499297774","Omy_81|San Francisco Estuary|2011|DWR,USBR",NA,NA,NA,NA
-"588","KF013244","rainbow trout","499297776","Omy_01|San Francisco Estuary|2011|DWR,USBR",NA,NA,NA,NA
-"589","KF019110","rainbow trout","501794287","OM8|fin|Iran|fish farm (Lorestan)|2012","Oncorhynchus mykiss","GBGCA2298-13",NA,NA
-"590","KF019111","rainbow trout","501794319","OM9|fin|Iran|fish farm (Mazandaran)|2012","Oncorhynchus mykiss","GBGCA2297-13",NA,NA
-"591","KF558312","rainbow trout","537107299","Omy_1|San Francisco Estuary|2011",NA,NA,NA,NA
-"592","KF558313","rainbow trout","537107301","Omy_2|San Francisco Estuary|2011",NA,NA,NA,NA
-"593","KF597031","rainbow trout","557041169",NA,NA,NA,NA,NA
-"594","KF962682","rainbow trout","589150515","T8|muscle|Italy: Desulo",NA,NA,NA,NA
-"595","KJ135463","rainbow trout","626186329","32310-20|USA: OR, Siletz Salmon River",NA,NA,NA,NA
-"596","KJ135464","rainbow trout","626186332","30513-01|USA: WA, Columbia River, Tucannon River",NA,NA,NA,NA
-"597","KJ135465","rainbow trout","626186335","30513-02|USA: WA, Columbia River, Tucannon River",NA,NA,NA,NA
-"598","KJ135466","rainbow trout","626186338","32067-05|USA: CA coast, Eel River",NA,NA,NA,NA
-"599","KJ135467","rainbow trout","626186341","32067-07|USA: CA coast, Eel River",NA,NA,NA,NA
-"600","KJ135468","rainbow trout","626186344","32067-19|USA: CA coast, Eel River",NA,NA,NA,NA
-"601","KJ135469","rainbow trout","626186347","32174-01|USA: Puget Sound, Nooksack River",NA,NA,NA,NA
-"602","KJ135470","rainbow trout","626186350","32174-02|USA: Puget Sound, Nooksack River",NA,NA,NA,NA
-"603","KJ135471","rainbow trout","626186353","32174-03|USA: Puget Sound, Nooksack River",NA,NA,NA,NA
-"604","KJ135472","rainbow trout","626186356","32174-04|USA: Puget Sound, Nooksack River",NA,NA,NA,NA
-"605","KJ135473","rainbow trout","626186359","32174-05|USA: Puget Sound, Nooksack River",NA,NA,NA,NA
-"606","KJ135474","rainbow trout","626186362","32174-06|USA: Puget Sound, Nooksack River",NA,NA,NA,NA
-"607","KJ135475","rainbow trout","626186365","32174-07|USA: Puget Sound, Nooksack River",NA,NA,NA,NA
-"608","KJ135476","rainbow trout","626186368","32174-08|USA: Puget Sound, Nooksack River",NA,NA,NA,NA
-"609","KJ135477","rainbow trout","626186371","32236-17|USA: OR, John Day River",NA,NA,NA,NA
-"610","KJ135478","rainbow trout","626186374","32236-21|USA: OR, John Day River",NA,NA,NA,NA
-"611","KJ135479","rainbow trout","626186377","32308-28|USA: OR, Alsea",NA,NA,NA,NA
-"612","KJ135480","rainbow trout","626186380","32308-48|USA: OR, Alsea",NA,NA,NA,NA
-"613","KJ135481","rainbow trout","626186383","32310-50|USA: OR, Siletz Salmon River",NA,NA,NA,NA
-"614","KJ135482","rainbow trout","626186386","32370-09|USA: Columbia River, Dworshak|early",NA,NA,NA,NA
-"615","KJ135483","rainbow trout","626186389","32370-17|USA: Columbia River, Dworshak|early",NA,NA,NA,NA
-"616","KJ135484","rainbow trout","626186392","32371-21|USA: Columbia River, Dworshak|late",NA,NA,NA,NA
-"617","KJ135485","rainbow trout","626186395","32371-34|USA: Columbia River, Dworshak|late",NA,NA,NA,NA
-"618","KJ135486","rainbow trout","626186398","32383-13|USA: CA, Santa Clara",NA,NA,NA,NA
-"619","KJ135487","rainbow trout","626186401","32434-37|USA: CA, Nimbus FH",NA,NA,NA,NA
-"620","KJ135488","rainbow trout","626186404","32435-24|USA: CA, Feather River FH",NA,NA,NA,NA
-"621","KJ135489","rainbow trout","626186407","32435-56|USA: CA, Feather River FH",NA,NA,NA,NA
-"622","KJ135490","rainbow trout","626186410","32468-01|USA: OR, Sand Creek",NA,NA,NA,NA
-"623","KJ135491","rainbow trout","626186413","32468-02|USA: OR, Sand Creek",NA,NA,NA,NA
-"624","KJ135492","rainbow trout","626186416","32468-03|USA: OR, Sand Creek",NA,NA,NA,NA
-"625","KJ135493","rainbow trout","626186419","32468-04|USA: OR, Sand Creek",NA,NA,NA,NA
-"626","KJ135494","rainbow trout","626186422","32468-05|USA: OR, Sand Creek",NA,NA,NA,NA
-"627","KJ135495","rainbow trout","626186425","32468-06|USA: OR, Sand Creek",NA,NA,NA,NA
-"628","KJ135496","rainbow trout","626186428","32468-07|USA: OR, Sand Creek",NA,NA,NA,NA
-"629","KJ135497","rainbow trout","626186431","32468-08|USA: OR, Sand Creek",NA,NA,NA,NA
-"630","KJ135498","rainbow trout","626186434","32546-03|USA: Columbia River, Willamette River",NA,NA,NA,NA
-"631","KJ135499","rainbow trout","626186437","32546-45|USA: Columbia River, Willamette River",NA,NA,NA,NA
-"632","KJ135500","rainbow trout","626186440","32664-20|USA: Columbia River, Icicle Creek Wells FH",NA,NA,NA,NA
-"633","KJ135501","rainbow trout","626186443","32664-22|USA: Columbia River, Icicle Creek Wells FH",NA,NA,NA,NA
-"634","KJ135502","rainbow trout","626186446","32773-63|USA: Columbia River, Bowman Creek",NA,NA,NA,NA
-"635","KJ135503","rainbow trout","626186449","32915-01|USA: WA, Forks Creek Willapa Bay",NA,NA,NA,NA
-"636","KJ135504","rainbow trout","626186452","32915-02|USA: WA, Forks Creek Willapa Bay",NA,NA,NA,NA
-"637","KJ135505","rainbow trout","626186455","32916-89|USA: WA, Snow Creek",NA,NA,NA,NA
-"638","KJ135506","rainbow trout","626186458","32916-99|USA: WA, Snow Creek",NA,NA,NA,NA
-"639","KJ135507","rainbow trout","626186461","32434-50|USA: CA, Nimbus FH",NA,NA,NA,NA
-"640","KJ135508","rainbow trout","626186464","32076-24|USA: CA, Carmel River",NA,NA,NA,NA
-"641","KJ135509","rainbow trout","626186467","32383-33|USA: CA, Santa Clara",NA,NA,NA,NA
-"642","KJ553781","rainbow trout","610492572","Ex25G7|ZFMK:FSJF:2155|Lebanon: Litani drainage|34.122 N 36.018 E","Oncorhynchus mykiss","FFMBH1556-14",34.122,36.018
-"643","KJ553875","rainbow trout","610492863","Ex25G6|ZFMK:FSJF:2155|Lebanon: Litani drainage|34.122 N 36.018 E","Oncorhynchus mykiss","FFMBH1555-14",34.122,36.018
-"644","KJ553975","rainbow trout","610493166","Ex25G5|ZFMK:FSJF:2155|Lebanon: Litani drainage|34.122 N 36.018 E","Oncorhynchus mykiss","FFMBH1554-14",34.122,36.018
-"645","KJ669513","Macquarie perch","670609094","CES-242|Australia: Little River, NSW","Macquaria australasica","GBGCA12190-15",NA,NA
-"646","KJ669514","Macquarie perch","670609096","CES-273|Australia: Cordeaux Dam, NSW","Macquaria australasica","GBGCA12191-15",NA,NA
-"647","KJ669515","Macquarie perch","670609098","CES-712|Australia: Kangaroo River, NSW","Macquaria australasica","GBGCA12192-15",NA,NA
-"648","KJ669516","Macquarie perch","670609100","CES-208|Australia: Cotter River, ACT","Macquaria australasica","GBGCA12193-15",NA,NA
-"649","KJ669570","rainbow trout","670609208","CES-077|Australia: Hatchery bred, Eucumbene, NSW|introduced species","Oncorhynchus mykiss","GBGCA12526-15",NA,NA
-"650","KJ774846","Macquarie perch","670608654","CES-712|Australia: Kangaroo River, NSW",NA,NA,NA,NA
-"651","KJ774993","rainbow trout","670608801","CES-417|Australia: Cotter River, ACT|2011|introduced species",NA,NA,NA,NA
-"652","KM273851","rainbow trout","725542170",NA,NA,NA,NA,NA
-"653","KM282441","rainbow trout","725542229",NA,NA,NA,NA,NA
-"654","KM282499","rainbow trout","725542280",NA,NA,NA,NA,NA
-"655","KM286770","rainbow trout","697737290","Ex41G6|Germany|51.1171 N 8.14111 E|02-Mar-2012|S.Walter|Joerg Freyhof","Oncorhynchus mykiss","GERFW166-13",51.1171,8.14111
-"656","KM286771","rainbow trout","697737292","Ex41G7|Germany|51.1171 N 8.14111 E|02-Mar-2012|S.Walter|Joerg Freyhof","Oncorhynchus mykiss","GERFW167-13",51.1171,8.14111
-"657","KM373649","rainbow trout","697995199","BayFi 07210|Germany: Bavaria, River, Danube, Danube River, inlet canal of Jochenstein power plant, 2 m in front of intake fence, Lower Bavaria, Bavaria State|48.51 N 13.7 E|20-May-2008|Dirk Neumann","Oncorhynchus mykiss","FBPIS509-11",48.51,13.7
-"658","KM373668","rainbow trout","697995237","BayFi 07211|Germany: Bavaria, River, Danube, Danube River, inlet canal of Jochenstein power plant, 2 m in front of intake fence, Lower Bavaria, Bavaria State|48.51 N 13.7 E|20-May-2008|Dirk Neumann","Oncorhynchus mykiss","FBPIS510-11",48.51,13.7
-"659","KM434974","rainbow trout","725542347",NA,NA,NA,NA,NA
-"660","KM435043","rainbow trout","725542407",NA,NA,NA,NA,NA
-"661","KM523306","rainbow trout","725542511","L14735/H15149c fragment",NA,NA,NA,NA
-"662","KP013084","rainbow trout","770591431","LodgeLab Omykiss_1",NA,NA,NA,NA
-"663","KP085590","rainbow trout","747197685","triploid","Oncorhynchus mykiss","GBGCA9842-15",NA,NA
-"664","KP668852","rainbow trout","926760040","MYS01G-1-EU",NA,NA,NA,NA
-"665","KP668853","rainbow trout","926760041","MYS01G-RTDL27-EU",NA,NA,NA,NA
-"666","KP668854","rainbow trout","926760042","MYS01H-RTDL36-EU",NA,NA,NA,NA
-"667","KP668855","rainbow trout","926760043","MYS01K-1-EU",NA,NA,NA,NA
-"668","KP668856","rainbow trout","926760044","MYS01K-RTDL01-EU",NA,NA,NA,NA
-"669","KP668857","rainbow trout","926760045","MYS01K-RTDL28-EU",NA,NA,NA,NA
-"670","KP668858","rainbow trout","926760046","MYS01L-EU",NA,NA,NA,NA
-"671","KP668859","rainbow trout","926760047","MYS03A-EU",NA,NA,NA,NA
-"672","KP668860","rainbow trout","926760048","MYS03B-1-EU",NA,NA,NA,NA
-"673","KP668861","rainbow trout","926760049","MYS03B-2-EU",NA,NA,NA,NA
-"674","KP668862","rainbow trout","926760050","MYS03B-RTDL16-EU",NA,NA,NA,NA
-"675","KP668863","rainbow trout","926760051","MYS03B-RTDL20-EU",NA,NA,NA,NA
-"676","KP668864","rainbow trout","926760052","MYS03C-RTDL34-EU",NA,NA,NA,NA
-"677","KP668865","rainbow trout","926760053","MYS08-RTDL07-EU",NA,NA,NA,NA
-"678","KP668866","rainbow trout","926760054","MYS10-RTDL17-EU",NA,NA,NA,NA
-"679","KP668867","rainbow trout","926760055","RDTL04-EU",NA,NA,NA,NA
-"680","KP668868","rainbow trout","926760056","RTDL21-EU",NA,NA,NA,NA
-"681","KR152233","Macquarie perch","929045238","MP_WOC10|Australia: Wongawilli Creek, Wongawilli|2006|Dean Gilligan",NA,NA,NA,NA
-"682","KR152234","Macquarie perch","929045252","MP_KD11|Australia: Kedumba River, Kedumba Crossing|2007|Dean Gilligan",NA,NA,NA,NA
-"683","KR152235","Macquarie perch","929045266","MP_KR1|Australia: Kangaroo River|Dean Gilligan",NA,NA,NA,NA
-"684","KR152236","Macquarie perch","929045280","MP_CP1|Australia: Capertree River, Glen Davis|2006|Dean Gilligan",NA,NA,NA,NA
-"685","KR152237","Macquarie perch","929045294","MP_G10|Australia: Yarra River, Warrandyte Township (at bridge on Kangaroo Ground-Warrandyte Rd) (Site 40)|2008|Scott Raymond",NA,NA,NA,NA
-"686","KR152238","Macquarie perch","929045308","MP_KN2|Australia: Kanangra Creek, Below Whalania Creek|2007|Dean Gilligan",NA,NA,NA,NA
-"687","KR152239","Macquarie perch","929045322","MP_D2|Australia: King Parrot Creek, Richards Bridge",NA,NA,NA,NA
-"688","KR152240","Macquarie perch","929045336","MP_GB23|Australia: Glenbrook Creek, Above National Park Causeway|2011|Dean Gilligan",NA,NA,NA,NA
-"689","KR152241","Macquarie perch","929045350","MP_TU14|Australia: Abercrombie River, Tuena|Dean Gilligan",NA,NA,NA,NA
-"690","KR152242","Macquarie perch","929045364","MP_CL1|Australia: Colo River, Below Wollemi Creek|2007|Dean Gilligan",NA,NA,NA,NA
-"691","KR152243","Macquarie perch","929045378","MP_E6|Australia: Hughes Creek, Gorge|2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"692","KR152244","Macquarie perch","929045392","MP_F36|Australia: Sevens Creek, Galls Gap Road Bridge to Gooram Falls|2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"693","KR152245","Macquarie perch","929045406","MP_PP1|Australia: Wentworth Creek, Panther Park|2007|Dean Gilligan",NA,NA,NA,NA
-"694","KR152246","Macquarie perch","929045420","MP_WC14|Australia: Wheeny Creek, Blue Gum Track|2005|Dean Gilligan",NA,NA,NA,NA
-"695","KR152247","Macquarie perch","929045434","MP_WL10|Australia: Wollemi Creek, Wollemi Creek|2007|Dean Gilligan",NA,NA,NA,NA
-"696","KR152248","Macquarie perch","929045448","MP_M26|Australia: Murrumbidgee River, Kissops Flat|Mark Lintermans",NA,NA,NA,NA
-"697","KR152249","Macquarie perch","929045462","MP_CX2|Australia: Coxs River, Kelpie Point|2005|Dean Gilligan",NA,NA,NA,NA
-"698","KR152250","Macquarie perch","929045476","MP_KW23|Australia: Kowmung River, Cedar Ford|2005|Dean Gilligan",NA,NA,NA,NA
-"699","KR152251","Macquarie perch","929045490","MP_WO1|Australia: Wollangambe river, Above Bowens Creek|2007|Dean Gilligan",NA,NA,NA,NA
-"700","KR152252","Macquarie perch","929045504","MP_CR47|Australia: Cataract River, Jordans Pass|2013|Dean Gilligan",NA,NA,NA,NA
-"701","KR152253","Macquarie perch","929045518","MP_LT9|Australia: Little River, W41 Causeway|2005|Dean Gilligan",NA,NA,NA,NA
-"702","KR152254","Macquarie perch","929045532","MP_L31|Australia: Cotter River, Cotter Dam|2011|Mark Lintermans",NA,NA,NA,NA
-"703","KR152255","Macquarie perch","929045546","MP_B1|Australia: Hollands Creek, Hollands Creek upstream from Tatong bridge|2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"704","KR152256","Macquarie perch","929045560","MP_CR43|Australia: Cataract River, Jordans Pass|2013|Dean Gilligan",NA,NA,NA,NA
-"705","KR476871","rainbow trout","868610964","Oncmyk2|Austria: Tyrol|water shoreline|2012|J. Oehm",NA,NA,NA,NA
-"706","KR476952","rainbow trout","868611183","Oncmyk1|Austria: Tyrol|water shoreline|2012|J. Oehm",NA,NA,NA,NA
-"707","KR477074","rainbow trout","868611906","Onkmyk3|Austria: Tyrol|2012|J. Oehm",NA,NA,NA,NA
-"708","KR706185","rainbow trout","942430203","cv13|fin|Iran|fish farm (gorgan)|13-Jun-2012|Elham Sadat Haji Mirghasemi",NA,NA,NA,NA
-"709","KT626048","Macquarie perch","984698090","MP_AB12|Australia: Abercrombie River|34.02729 S 149.46088 E|10-May-2006|Dean Hartwell",NA,NA,NA,NA
-"710","KT626049","Macquarie perch","984698091","MP_AB15|Australia: Abercrombie River|34.02729 S 149.46088 E|10-May-2006|Dean Hartwell",NA,NA,NA,NA
-"711","KT626050","Macquarie perch","984698092","MP_AB17|Australia: Abercrombie River|33.9813 S 149.3843 E|20-Apr-2006|Dean Hartwell",NA,NA,NA,NA
-"712","KT626051","Macquarie perch","984698093","MP_AB40|Australia: Abercrombie River|34.0878 S 149.55104 E|28-Mar-2008|Marty Asmus",NA,NA,NA,NA
-"713","KT626052","Macquarie perch","984698094","MP_AB41|Australia: Abercrombie River|34.0878 S 149.55104 E|09-May-2008|Marty Asmus",NA,NA,NA,NA
-"714","KT626053","Macquarie perch","984698095","MP_AC1|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"715","KT626054","Macquarie perch","984698096","MP_AC10|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"716","KT626055","Macquarie perch","984698097","MP_AC11|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"717","KT626056","Macquarie perch","984698098","MP_AC12|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"718","KT626057","Macquarie perch","984698099","MP_AC13|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"719","KT626058","Macquarie perch","984698100","MP_AC14|Australia: Adjungbilly Creek|35.03896 S 148.30501 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"720","KT626059","Macquarie perch","984698101","MP_AC15|Australia: Adjungbilly Creek|35.03896 S 148.30501 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"721","KT626060","Macquarie perch","984698102","MP_AC16|Australia: Adjungbilly Creek|35.03896 S 148.30501 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"722","KT626061","Macquarie perch","984698103","MP_AC17|Australia: Adjungbilly Creek|35.03896 S 148.30501 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"723","KT626062","Macquarie perch","984698104","MP_AC18|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"724","KT626063","Macquarie perch","984698105","MP_AC19|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"725","KT626064","Macquarie perch","984698106","MP_AC2|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"726","KT626065","Macquarie perch","984698107","MP_AC20|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"727","KT626066","Macquarie perch","984698108","MP_AC21|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"728","KT626067","Macquarie perch","984698109","MP_AC22|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"729","KT626068","Macquarie perch","984698110","MP_AC23|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"730","KT626069","Macquarie perch","984698111","MP_AC3|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"731","KT626070","Macquarie perch","984698112","MP_AC4|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"732","KT626071","Macquarie perch","984698113","MP_AC5|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"733","KT626072","Macquarie perch","984698114","MP_AC6|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"734","KT626073","Macquarie perch","984698115","MP_AC7|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"735","KT626074","Macquarie perch","984698116","MP_AC8|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"736","KT626075","Macquarie perch","984698117","MP_AC9|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
-"737","KT626076","Macquarie perch","984698118","MP_B2|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"738","KT626077","Macquarie perch","984698119","MP_B23|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
-"739","KT626078","Macquarie perch","984698120","MP_B24|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
-"740","KT626079","Macquarie perch","984698121","MP_B25|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
-"741","KT626080","Macquarie perch","984698122","MP_B26|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
-"742","KT626081","Macquarie perch","984698123","MP_B27|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
-"743","KT626082","Macquarie perch","984698124","MP_B28|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
-"744","KT626083","Macquarie perch","984698125","MP_B29|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
-"745","KT626084","Macquarie perch","984698126","MP_B3|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"746","KT626085","Macquarie perch","984698127","MP_B4|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"747","KT626086","Macquarie perch","984698128","MP_B5|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"748","KT626087","Macquarie perch","984698129","MP_B6|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"749","KT626088","Macquarie perch","984698130","MP_B7|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"750","KT626089","Macquarie perch","984698131","MP_B8|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"751","KT626090","Macquarie perch","984698132","MP_C103|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|18-Feb-2011|Zeb Tonkin",NA,NA,NA,NA
-"752","KT626091","Macquarie perch","984698133","MP_C110|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|18-Feb-2011|Zeb Tonkin",NA,NA,NA,NA
-"753","KT626092","Macquarie perch","984698134","MP_C117|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|27-Mar-2012|Zeb Tonkin",NA,NA,NA,NA
-"754","KT626093","Macquarie perch","984698135","MP_C118|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|27-Mar-2012|Zeb Tonkin",NA,NA,NA,NA
-"755","KT626094","Macquarie perch","984698136","MP_C13|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"756","KT626095","Macquarie perch","984698137","MP_C131|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|29-Mar-2012|Zeb Tonkin",NA,NA,NA,NA
-"757","KT626096","Macquarie perch","984698138","MP_C161|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|25-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"758","KT626097","Macquarie perch","984698139","MP_C163|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|25-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"759","KT626098","Macquarie perch","984698140","MP_C164|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|25-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"760","KT626099","Macquarie perch","984698141","MP_C177|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|27-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"761","KT626100","Macquarie perch","984698142","MP_C178|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|27-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"762","KT626101","Macquarie perch","984698143","MP_C180|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|27-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"763","KT626102","Macquarie perch","984698144","MP_C181|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|26-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"764","KT626103","Macquarie perch","984698145","MP_C183|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|28-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"765","KT626104","Macquarie perch","984698146","MP_C185|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|28-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"766","KT626105","Macquarie perch","984698147","MP_C187|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|28-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
-"767","KT626106","Macquarie perch","984698148","MP_C2|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|27-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"768","KT626107","Macquarie perch","984698149","MP_C21|Australia: Dartmouth Reservoir|36.725817 S 147.6579 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"769","KT626108","Macquarie perch","984698150","MP_C25|Australia: Dartmouth Reservoir|36.725817 S 147.6579 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"770","KT626109","Macquarie perch","984698151","MP_C29|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"771","KT626110","Macquarie perch","984698152","MP_C3|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"772","KT626111","Macquarie perch","984698153","MP_C35|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|29-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"773","KT626112","Macquarie perch","984698154","MP_C37|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|29-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"774","KT626113","Macquarie perch","984698155","MP_C4|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"775","KT626114","Macquarie perch","984698156","MP_C5|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"776","KT626115","Macquarie perch","984698157","MP_C54|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|29-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"777","KT626116","Macquarie perch","984698158","MP_C7|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"778","KT626117","Macquarie perch","984698159","MP_CBR01|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"779","KT626118","Macquarie perch","984698160","MP_CBR02|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"780","KT626119","Macquarie perch","984698161","MP_CBR03|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"781","KT626120","Macquarie perch","984698162","MP_CBR04|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"782","KT626121","Macquarie perch","984698163","MP_CBR06|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"783","KT626122","Macquarie perch","984698164","MP_CBR07|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"784","KT626123","Macquarie perch","984698165","MP_CBR08|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"785","KT626124","Macquarie perch","984698166","MP_CBR09|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"786","KT626125","Macquarie perch","984698167","MP_CBR10|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"787","KT626126","Macquarie perch","984698168","MP_CBR11|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"788","KT626127","Macquarie perch","984698169","MP_CBR12|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"789","KT626128","Macquarie perch","984698170","MP_CBR13|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"790","KT626129","Macquarie perch","984698171","MP_CBR14|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"791","KT626130","Macquarie perch","984698172","MP_CBR15|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"792","KT626131","Macquarie perch","984698173","MP_CBR16|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"793","KT626132","Macquarie perch","984698174","MP_CBR17|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"794","KT626133","Macquarie perch","984698175","MP_CBR18|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"795","KT626134","Macquarie perch","984698176","MP_CBR19|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"796","KT626135","Macquarie perch","984698177","MP_CBR20|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"797","KT626136","Macquarie perch","984698178","MP_CBR21|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"798","KT626137","Macquarie perch","984698179","MP_CBR22|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"799","KT626138","Macquarie perch","984698180","MP_CBR23|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"800","KT626139","Macquarie perch","984698181","MP_CBR24|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"801","KT626140","Macquarie perch","984698182","MP_CBR25|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"802","KT626141","Macquarie perch","984698183","MP_CDM01|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"803","KT626142","Macquarie perch","984698184","MP_CDM02|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"804","KT626143","Macquarie perch","984698185","MP_CDM03|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"805","KT626144","Macquarie perch","984698186","MP_CDM04|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"806","KT626145","Macquarie perch","984698187","MP_CDM05|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"807","KT626146","Macquarie perch","984698188","MP_CDM06|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"808","KT626147","Macquarie perch","984698189","MP_CDM07|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"809","KT626148","Macquarie perch","984698190","MP_CDM08|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"810","KT626149","Macquarie perch","984698191","MP_CDM09|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"811","KT626150","Macquarie perch","984698192","MP_CDM10|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"812","KT626151","Macquarie perch","984698193","MP_CDM11|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"813","KT626152","Macquarie perch","984698194","MP_CDM12|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"814","KT626153","Macquarie perch","984698195","MP_CDM13|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"815","KT626154","Macquarie perch","984698196","MP_CDM14|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"816","KT626155","Macquarie perch","984698197","MP_CDM15|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
-"817","KT626156","Macquarie perch","984698198","MP_CR21|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"818","KT626157","Macquarie perch","984698199","MP_CR22|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"819","KT626158","Macquarie perch","984698200","MP_CR23|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"820","KT626159","Macquarie perch","984698201","MP_CR24|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"821","KT626160","Macquarie perch","984698202","MP_CR25|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"822","KT626161","Macquarie perch","984698203","MP_CR26|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"823","KT626162","Macquarie perch","984698204","MP_CR27|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"824","KT626163","Macquarie perch","984698205","MP_CR28|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"825","KT626164","Macquarie perch","984698206","MP_CR29|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"826","KT626165","Macquarie perch","984698207","MP_CR30|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"827","KT626166","Macquarie perch","984698208","MP_CR31|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"828","KT626167","Macquarie perch","984698209","MP_CR32|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"829","KT626168","Macquarie perch","984698210","MP_CR33|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"830","KT626169","Macquarie perch","984698211","MP_CR34|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"831","KT626170","Macquarie perch","984698212","MP_CR35|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"832","KT626171","Macquarie perch","984698213","MP_CR36|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"833","KT626172","Macquarie perch","984698214","MP_CR37|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"834","KT626173","Macquarie perch","984698215","MP_CR38|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"835","KT626174","Macquarie perch","984698216","MP_CR39|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"836","KT626175","Macquarie perch","984698217","MP_CR40|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"837","KT626176","Macquarie perch","984698218","MP_CR41|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"838","KT626177","Macquarie perch","984698219","MP_CR42|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"839","KT626178","Macquarie perch","984698220","MP_CR44|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"840","KT626179","Macquarie perch","984698221","MP_CR45|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"841","KT626180","Macquarie perch","984698222","MP_CR46|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"842","KT626181","Macquarie perch","984698223","MP_CR48|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"843","KT626182","Macquarie perch","984698224","MP_CR49|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"844","KT626183","Macquarie perch","984698225","MP_CR50|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"845","KT626184","Macquarie perch","984698226","MP_CR51|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"846","KT626185","Macquarie perch","984698227","MP_CR52|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"847","KT626186","Macquarie perch","984698228","MP_CR53|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"848","KT626187","Macquarie perch","984698229","MP_CR54|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"849","KT626188","Macquarie perch","984698230","MP_CR55|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"850","KT626189","Macquarie perch","984698231","MP_CR56|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"851","KT626190","Macquarie perch","984698232","MP_CR57|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"852","KT626191","Macquarie perch","984698233","MP_CR58|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"853","KT626192","Macquarie perch","984698234","MP_CR59|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"854","KT626193","Macquarie perch","984698235","MP_CR60|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"855","KT626194","Macquarie perch","984698236","MP_CR61|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"856","KT626195","Macquarie perch","984698237","MP_CR62|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"857","KT626196","Macquarie perch","984698238","MP_CR63|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"858","KT626197","Macquarie perch","984698239","MP_CR64|Australia: Cataract River|34.26272 S 150.80219 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"859","KT626198","Macquarie perch","984698240","MP_CR65|Australia: Cataract River|34.26272 S 150.80219 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"860","KT626199","Macquarie perch","984698241","MP_CR66|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"861","KT626200","Macquarie perch","984698242","MP_CR67|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"862","KT626201","Macquarie perch","984698243","MP_CR68|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"863","KT626202","Macquarie perch","984698244","MP_CR69|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"864","KT626203","Macquarie perch","984698245","MP_CR70|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"865","KT626204","Macquarie perch","984698246","MP_CR71|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"866","KT626205","Macquarie perch","984698247","MP_CR72|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"867","KT626206","Macquarie perch","984698248","MP_CR73|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"868","KT626207","Macquarie perch","984698249","MP_CR74|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"869","KT626208","Macquarie perch","984698250","MP_D10|Australia: King Parrot Creek|37.2419 S 145.2348 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"870","KT626209","Macquarie perch","984698251","MP_D11|Australia: King Parrot Creek|37.2419 S 145.2348 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"871","KT626210","Macquarie perch","984698252","MP_D12|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"872","KT626211","Macquarie perch","984698253","MP_D13|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"873","KT626212","Macquarie perch","984698254","MP_D14|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"874","KT626213","Macquarie perch","984698255","MP_D15|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"875","KT626214","Macquarie perch","984698256","MP_D16|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"876","KT626215","Macquarie perch","984698257","MP_D3|Australia: King Parrot Creek|37.246749 S 145.242528 E|25-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
-"877","KT626216","Macquarie perch","984698258","MP_D4|Australia: King Parrot Creek|37.246749 S 145.242528 E|25-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
-"878","KT626217","Macquarie perch","984698259","MP_D5|Australia: King Parrot Creek|37.246749 S 145.242528 E|25-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
-"879","KT626218","Macquarie perch","984698260","MP_D6|Australia: King Parrot Creek|37.246749 S 145.242528 E|25-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
-"880","KT626219","Macquarie perch","984698261","MP_D7|Australia: King Parrot Creek|37.246749 S 145.242528 E|26-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
-"881","KT626220","Macquarie perch","984698262","MP_D8|Australia: King Parrot Creek|37.246749 S 145.242528 E|26-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"882","KT626221","Macquarie perch","984698263","MP_D9|Australia: King Parrot Creek|37.2419 S 145.2348 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
-"883","KT626222","Macquarie perch","984698264","MP_E1|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|24-Oct-2007|Alastair McDonald",NA,NA,NA,NA
-"884","KT626223","Macquarie perch","984698265","MP_E10|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"885","KT626224","Macquarie perch","984698266","MP_E11|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"886","KT626225","Macquarie perch","984698267","MP_E12|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"887","KT626226","Macquarie perch","984698268","MP_E13|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"888","KT626227","Macquarie perch","984698269","MP_E14|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"889","KT626228","Macquarie perch","984698270","MP_E15|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"890","KT626229","Macquarie perch","984698271","MP_E2|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"891","KT626230","Macquarie perch","984698272","MP_E3|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"892","KT626231","Macquarie perch","984698273","MP_E4|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"893","KT626232","Macquarie perch","984698274","MP_E5|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"894","KT626233","Macquarie perch","984698275","MP_E7|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"895","KT626234","Macquarie perch","984698276","MP_E8|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"896","KT626235","Macquarie perch","984698277","MP_E9|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"897","KT626236","Macquarie perch","984698278","MP_F31|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"898","KT626237","Macquarie perch","984698279","MP_F32|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"899","KT626238","Macquarie perch","984698280","MP_F33|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"900","KT626239","Macquarie perch","984698281","MP_F34|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"901","KT626240","Macquarie perch","984698282","MP_F35|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"902","KT626241","Macquarie perch","984698283","MP_F37|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"903","KT626242","Macquarie perch","984698284","MP_F38|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"904","KT626243","Macquarie perch","984698285","MP_F39|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"905","KT626244","Macquarie perch","984698286","MP_F40|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"906","KT626245","Macquarie perch","984698287","MP_F41|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"907","KT626246","Macquarie perch","984698288","MP_F42|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"908","KT626247","Macquarie perch","984698289","MP_F43|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"909","KT626248","Macquarie perch","984698290","MP_F44|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"910","KT626249","Macquarie perch","984698291","MP_F45|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"911","KT626250","Macquarie perch","984698292","MP_G11|Australia: Yarra River|37.73623 S 145.22248 E|08-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"912","KT626251","Macquarie perch","984698293","MP_G146|Australia: Yarra River|37.6814535845692 S 145.350897033564 E|29-Mar-2012|Scott Raymond",NA,NA,NA,NA
-"913","KT626252","Macquarie perch","984698294","MP_G147|Australia: Yarra River|37.6814535845692 S 145.350897033564 E|29-Mar-2012|Scott Raymond",NA,NA,NA,NA
-"914","KT626253","Macquarie perch","984698295","MP_G152|Australia: Yarra River|37.6786008052873 S 145.490492169596 E|02-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"915","KT626254","Macquarie perch","984698296","MP_G153|Australia: Yarra River|37.6741022348606 S 145.488984547325 E|02-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"916","KT626255","Macquarie perch","984698297","MP_G158|Australia: Yarra River|37.6954132551696 S 145.496446181839 E|03-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"917","KT626256","Macquarie perch","984698298","MP_G159|Australia: Yarra River|37.6954132551696 S 145.496446181839 E|03-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"918","KT626257","Macquarie perch","984698299","MP_G160|Australia: Yarra River|37.6954132551696 S 145.496446181839 E|03-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"919","KT626258","Macquarie perch","984698300","MP_G163|Australia: Yarra River|37.6629670947845 S 145.382641656842 E|05-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"920","KT626259","Macquarie perch","984698301","MP_G164|Australia: Yarra River|37.6629670947845 S 145.382641656842 E|05-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"921","KT626260","Macquarie perch","984698302","MP_G17|Australia: Yarra River|37.7515 S 145.1219 E|09-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"922","KT626261","Macquarie perch","984698303","MP_G174|Australia: Yarra River|37.6580133163138 S 145.420102233543 E|11-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"923","KT626262","Macquarie perch","984698304","MP_G175|Australia: Yarra River|37.6580133163138 S 145.420102233543 E|11-Apr-2012|Scott Raymond",NA,NA,NA,NA
-"924","KT626263","Macquarie perch","984698305","MP_G179|Australia: Yarra River|37.733083972297 S 145.501971309791 E|04-Jun-2012|Scott Raymond",NA,NA,NA,NA
-"925","KT626264","Macquarie perch","984698306","MP_G18|Australia: Yarra River|37.73708 S 145.14853 E|09-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"926","KT626265","Macquarie perch","984698307","MP_G182|Australia: Yarra River|37.7856744271821 S 145.014028937585 E|22-Mar-2012|Scott Raymond",NA,NA,NA,NA
-"927","KT626266","Macquarie perch","984698308","MP_G183|Australia: Yarra River|37.785326568595 S 145.04060929802 E|20-Mar-2012|Scott Raymond",NA,NA,NA,NA
-"928","KT626267","Macquarie perch","984698309","MP_G184|Australia: Yarra River|37.785326568595 S 145.04060929802 E|20-Mar-2012|Scott Raymond",NA,NA,NA,NA
-"929","KT626268","Macquarie perch","984698310","MP_G185|Australia: Yarra River|37.785326568595 S 145.04060929802 E|20-Mar-2012|Scott Raymond",NA,NA,NA,NA
-"930","KT626269","Macquarie perch","984698311","MP_G186|Australia: Yarra River|37.785326568595 S 145.04060929802 E|20-Mar-2012|Scott Raymond",NA,NA,NA,NA
-"931","KT626270","Macquarie perch","984698312","MP_G188|Australia: Yarra River|37.7884201753536 S 145.041844839126 E|22-Mar-2012|Scott Raymond",NA,NA,NA,NA
-"932","KT626271","Macquarie perch","984698313","MP_G19|Australia: Yarra River|37.7515 S 145.1219 E|09-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"933","KT626272","Macquarie perch","984698314","MP_G190|Australia: Yarra River|37.6614882659654 S 145.37537285757 E|05-May-2013|Rhys Coleman",NA,NA,NA,NA
-"934","KT626273","Macquarie perch","984698315","MP_G191|Australia: Yarra River|37.6614882659654 S 145.37537285757 E|05-May-2013|Rhys Coleman",NA,NA,NA,NA
-"935","KT626274","Macquarie perch","984698316","MP_G192|Australia: Yarra River|37.6629670934542 S 145.382641656859 E|05-May-2013|Rhys Coleman",NA,NA,NA,NA
-"936","KT626275","Macquarie perch","984698317","MP_G231|Australia: Yarra River|37.7884201740222 S 145.041844839147 E|29-Jul-2013|Rhys Coleman",NA,NA,NA,NA
-"937","KT626276","Macquarie perch","984698318","MP_G232|Australia: Yarra River|37.7884201740222 S 145.041844839147 E|29-Jul-2013|Rhys Coleman",NA,NA,NA,NA
-"938","KT626277","Macquarie perch","984698319","MP_G233|Australia: Yarra River|37.7884201740222 S 145.041844839147 E|29-Jul-2013|Rhys Coleman",NA,NA,NA,NA
-"939","KT626278","Macquarie perch","984698320","MP_G234|Australia: Yarra River|37.7884201740222 S 145.041844839147 E|29-Jul-2013|Rhys Coleman",NA,NA,NA,NA
-"940","KT626279","Macquarie perch","984698321","MP_G235|Australia: Yarra River|37.6786008039565 S 145.490492169611 E|30-Jul-2013|Rhys Coleman",NA,NA,NA,NA
-"941","KT626280","Macquarie perch","984698322","MP_G236|Australia: Yarra River|37.7853265672636 S 145.04060929804 E|31-Jul-2013|Rhys Coleman",NA,NA,NA,NA
-"942","KT626281","Macquarie perch","984698323","MP_G237|Australia: Yarra River|37.7853265672636 S 145.04060929804 E|31-Jul-2013|Rhys Coleman",NA,NA,NA,NA
-"943","KT626282","Macquarie perch","984698324","MP_G32|Australia: Yarra River|37.75966667 S 145.07713333 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"944","KT626283","Macquarie perch","984698325","MP_G38|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"945","KT626284","Macquarie perch","984698326","MP_G39|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"946","KT626285","Macquarie perch","984698327","MP_G40|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"947","KT626286","Macquarie perch","984698328","MP_G41|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"948","KT626287","Macquarie perch","984698329","MP_G42|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"949","KT626288","Macquarie perch","984698330","MP_G43|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"950","KT626289","Macquarie perch","984698331","MP_G7|Australia: Yarra River|37.72856 S 145.24233 E|08-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"951","KT626290","Macquarie perch","984698332","MP_G9|Australia: Yarra River|37.7349483333333 S 145.238768333333 E|08-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"952","KT626291","Macquarie perch","984698333","MP_GB16|Australia: Glenbrook Creek|33.77614 S 150.60697 E|10-Nov-2010|Justin Stanger",NA,NA,NA,NA
-"953","KT626292","Macquarie perch","984698334","MP_GB17|Australia: Glenbrook Creek|33.77614 S 150.60697 E|10-Nov-2010|Justin Stanger",NA,NA,NA,NA
-"954","KT626293","Macquarie perch","984698335","MP_GB18|Australia: Glenbrook Creek|33.77614 S 150.60697 E|10-Nov-2010|Justin Stanger",NA,NA,NA,NA
-"955","KT626294","Macquarie perch","984698336","MP_GB19|Australia: Glenbrook Creek|33.7486 S 150.6007 E|06-May-2009|Matt Timmins",NA,NA,NA,NA
-"956","KT626295","Macquarie perch","984698337","MP_GB26|Australia: Glenbrook Creek|33.7486 S 150.6007 E|02-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"957","KT626296","Macquarie perch","984698338","MP_GB27|Australia: Glenbrook Creek|33.7486 S 150.6007 E|02-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"958","KT626297","Macquarie perch","984698339","MP_GB28|Australia: Glenbrook Creek|33.7486 S 150.6007 E|02-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"959","KT626298","Macquarie perch","984698340","MP_GB33|Australia: Glenbrook Creek|33.77815 S 150.6177 E|08-Jul-2011|Jonathon Doyle",NA,NA,NA,NA
-"960","KT626299","Macquarie perch","984698341","MP_GB34|Australia: Glenbrook Creek|33.77815 S 150.6177 E|08-Jul-2011|Jonathon Doyle",NA,NA,NA,NA
-"961","KT626300","Macquarie perch","984698342","MP_GB35|Australia: Glenbrook Creek|33.77815 S 150.6177 E|08-Jul-2011|Jonathon Doyle",NA,NA,NA,NA
-"962","KT626301","Macquarie perch","984698343","MP_GBR01|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"963","KT626302","Macquarie perch","984698344","MP_GBR02|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"964","KT626303","Macquarie perch","984698345","MP_GBR03|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"965","KT626304","Macquarie perch","984698346","MP_GBR04|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"966","KT626305","Macquarie perch","984698347","MP_GBR05|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"967","KT626306","Macquarie perch","984698348","MP_GBR06|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"968","KT626307","Macquarie perch","984698349","MP_GBR07|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"969","KT626308","Macquarie perch","984698350","MP_GBR08|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"970","KT626309","Macquarie perch","984698351","MP_GBR09|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"971","KT626310","Macquarie perch","984698352","MP_GBR10|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"972","KT626311","Macquarie perch","984698353","MP_GBR11|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"973","KT626312","Macquarie perch","984698354","MP_GBR12|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"974","KT626313","Macquarie perch","984698355","MP_GBR13|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"975","KT626314","Macquarie perch","984698356","MP_GBR14|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"976","KT626315","Macquarie perch","984698357","MP_GBR15|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"977","KT626316","Macquarie perch","984698358","MP_GBR16|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"978","KT626317","Macquarie perch","984698359","MP_GBR17|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"979","KT626318","Macquarie perch","984698360","MP_GBR18|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"980","KT626319","Macquarie perch","984698361","MP_GBR19|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"981","KT626320","Macquarie perch","984698362","MP_GBR20|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"982","KT626321","Macquarie perch","984698363","MP_GBR22|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"983","KT626322","Macquarie perch","984698364","MP_GBR23|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"984","KT626323","Macquarie perch","984698365","MP_GBR24|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"985","KT626324","Macquarie perch","984698366","MP_GBR25|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"986","KT626325","Macquarie perch","984698367","MP_GBR26|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"987","KT626326","Macquarie perch","984698368","MP_GBR27|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
-"988","KT626327","Macquarie perch","984698369","MP_L32|Australia: Cotter River|35.31963 S 148.930669 E|04-Apr-2011|Mark Lintermans",NA,NA,NA,NA
-"989","KT626328","Macquarie perch","984698370","MP_L33|Australia: Cotter River|35.31963 S 148.930669 E|04-Apr-2011|Mark Lintermans",NA,NA,NA,NA
-"990","KT626329","Macquarie perch","984698371","MP_L61|Australia: Cotter River|35.31963 S 148.930669 E|2006|Mark Lintermans",NA,NA,NA,NA
-"991","KT626330","Macquarie perch","984698372","MP_L62|Australia: Cotter River|35.31963 S 148.930669 E|2006|Mark Lintermans",NA,NA,NA,NA
-"992","KT626331","Macquarie perch","984698373","MP_L63|Australia: Cotter River|35.31963 S 148.930669 E|2006|Mark Lintermans",NA,NA,NA,NA
-"993","KT626332","Macquarie perch","984698374","MP_L88|Australia: Cotter River|35.31963 S 148.930669 E|02-May-2012|Mark Lintermans",NA,NA,NA,NA
-"994","KT626333","Macquarie perch","984698375","MP_LN21|Australia: Lachlan River|34.26559 S 149.11879 E|21-Nov-2006|Dean Gilligan",NA,NA,NA,NA
-"995","KT626334","Macquarie perch","984698376","MP_LN22|Australia: Lachlan River|34.26559 S 149.11879 E|21-Nov-2006|Dean Gilligan",NA,NA,NA,NA
-"996","KT626335","Macquarie perch","984698377","MP_LN23|Australia: Lachlan River|34.26559 S 149.11879 E|21-Nov-2006|Dean Gilligan",NA,NA,NA,NA
-"997","KT626336","Macquarie perch","984698378","MP_LN24|Australia: Lachlan River|34.26559 S 149.11879 E|21-Nov-2006|Dean Gilligan",NA,NA,NA,NA
-"998","KT626337","Macquarie perch","984698379","MP_LN25|Australia: Lachlan River|34.41726951 S 149.09588148 E|03-Jul-2008|Michael Rodgers",NA,NA,NA,NA
-"999","KT626338","Macquarie perch","984698380","MP_LT20|Australia: Little River|34.17391 S 150.45073 E|24-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"1000","KT626339","Macquarie perch","984698381","MP_LT21|Australia: Little River|34.15119 S 150.44995 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"1001","KT626340","Macquarie perch","984698382","MP_LT22|Australia: Little River|34.17391 S 150.45073 E|24-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"1002","KT626341","Macquarie perch","984698383","MP_LT23|Australia: Little River|34.18802 S 150.46519 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"1003","KT626342","Macquarie perch","984698384","MP_LT24|Australia: Little River|34.18802 S 150.46519 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"1004","KT626343","Macquarie perch","984698385","MP_LT25|Australia: Little River|34.18802 S 150.46519 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"1005","KT626344","Macquarie perch","984698386","MP_LT29|Australia: Little River|34.19152 S 150.46396 E|22-Jun-2011|Jonathon Doyle",NA,NA,NA,NA
-"1006","KT626345","Macquarie perch","984698387","MP_LT30|Australia: Little River|34.18802 S 150.46519 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
-"1007","KT626346","Macquarie perch","984698388","MP_LT31|Australia: Little River|34.18802 S 150.46519 E|20-Jun-2012|Jonathon Doyle",NA,NA,NA,NA
-"1008","KT626347","Macquarie perch","984698389","MP_LT32|Australia: Little River|34.18802 S 150.46519 E|20-Jun-2012|Jonathon Doyle",NA,NA,NA,NA
-"1009","KT626348","Macquarie perch","984698390","MP_M11|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1010","KT626349","Macquarie perch","984698391","MP_M12|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1011","KT626350","Macquarie perch","984698392","MP_M13|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1012","KT626351","Macquarie perch","984698393","MP_M14|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1013","KT626352","Macquarie perch","984698394","MP_M15|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1014","KT626353","Macquarie perch","984698395","MP_M16|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1015","KT626354","Macquarie perch","984698396","MP_M17|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1016","KT626355","Macquarie perch","984698397","MP_M18|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1017","KT626356","Macquarie perch","984698398","MP_M19|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1018","KT626357","Macquarie perch","984698399","MP_M20|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
-"1019","KT626358","Macquarie perch","984698400","MP_N01|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
-"1020","KT626359","Macquarie perch","984698401","MP_N02|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
-"1021","KT626360","Macquarie perch","984698402","MP_N03|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
-"1022","KT626361","Macquarie perch","984698403","MP_N04|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
-"1023","KT626362","Macquarie perch","984698404","MP_N05|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
-"1024","KT626363","Macquarie perch","984698405","MP_N21|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
-"1025","KT626364","Macquarie perch","984698406","MP_N22|Australia: Cotter River|35.361699 S 148.877614 E|09-Mar-2011|Mark Lintermans",NA,NA,NA,NA
-"1026","KT626365","Macquarie perch","984698407","MP_N23|Australia: Cotter River|35.361699 S 148.877614 E|09-Mar-2011|Mark Lintermans",NA,NA,NA,NA
-"1027","KT626366","Macquarie perch","984698408","MP_WC1|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
-"1028","KT626367","Macquarie perch","984698409","MP_WC12|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
-"1029","KT626368","Macquarie perch","984698410","MP_WC13|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
-"1030","KT626369","Macquarie perch","984698411","MP_WC15|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
-"1031","KT626370","Macquarie perch","984698412","MP_WC16|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
-"1032","KT626371","Macquarie perch","984698413","MP_WC2|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
-"1033","KT626372","Macquarie perch","984698414","MP_C1|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|27-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"1034","KT626373","Macquarie perch","984698415","MP_G10|Australia: Yarra River|37.73623 S 145.22248 E|08-Oct-2008|Scott Raymond",NA,NA,NA,NA
-"1035","KT626374","Macquarie perch","984698416","MP_D2|Australia: King Parrot Creek|37.1808 S 145.2493 E|11-May-2008|Dean Gilligan",NA,NA,NA,NA
-"1036","KT626375","Macquarie perch","984698417","MP_E6|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
-"1037","KT626376","Macquarie perch","984698418","MP_F36|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
-"1038","KT626377","Macquarie perch","984698419","MP_WC14|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
-"1039","KT626378","Macquarie perch","984698420","MP_CR47|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"1040","KT626379","Macquarie perch","984698421","MP_L31|Australia: Cotter River|35.31963 S 148.930669 E|04-Apr-2011|Mark Lintermans",NA,NA,NA,NA
-"1041","KT626380","Macquarie perch","984698422","MP_B1|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
-"1042","KT626381","Macquarie perch","984698423","MP_CR43|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
-"1043","KU145408","rainbow trout","1026358542","Om_Pl1|pectoral fin|Poland",NA,NA,NA,NA
-"1044","KU170139","rainbow trout","974031701","Steelhead 1|50632-245|USA: Little Sheep Creek, Oregon",NA,NA,NA,NA
-"1045","KU170140","rainbow trout","974031702","Steelhead 2|31812-07|USA: Herd Creek, Idaho",NA,NA,NA,NA
-"1046","KU533447","rainbow trout","1039725970","Omy_9a",NA,NA,NA,NA
-"1047","KU533448","rainbow trout","1039725972","Omy_18a",NA,NA,NA,NA
-"1048","KU533449","rainbow trout","1039725974","Omy_17a",NA,NA,NA,NA
-"1049","KU533450","rainbow trout","1039725976","Omy_16a",NA,NA,NA,NA
-"1050","KU533451","rainbow trout","1039725978","Omy_13a",NA,NA,NA,NA
-"1051","KU533452","rainbow trout","1039725980","Omy_10a",NA,NA,NA,NA
-"1052","KU533453","rainbow trout","1039725982","Omy_14a",NA,NA,NA,NA
-"1053","KU533454","rainbow trout","1039725984","Omy_4a",NA,NA,NA,NA
-"1054","KU533455","rainbow trout","1039725986","Omy_3a",NA,NA,NA,NA
-"1055","KU533456","rainbow trout","1039725988","Omy_1a",NA,NA,NA,NA
-"1056","KU533457","rainbow trout","1039725990","Omy_20a",NA,NA,NA,NA
-"1057","KU533458","rainbow trout","1039725992","Omy_19a",NA,NA,NA,NA
-"1058","KU533459","rainbow trout","1039725994","Omy_8a",NA,NA,NA,NA
-"1059","KU533460","rainbow trout","1039725996","Omy_7a",NA,NA,NA,NA
-"1060","KU533461","rainbow trout","1039725998","Omy_6a",NA,NA,NA,NA
-"1061","KU533462","rainbow trout","1039726000","Omy_5a",NA,NA,NA,NA
-"1062","KU533463","rainbow trout","1039726002","Omy_2a",NA,NA,NA,NA
-"1063","KU756206","rainbow trout","1064270858","B8",NA,NA,NA,NA
-"1064","KU756207","rainbow trout","1064270860","TA2",NA,NA,NA,NA
-"1065","KU761858","rainbow trout","1005507085","UAM:Fish:9941|USA: Alaska|59.55640432 N 154.034636 W|16-Aug-2012",NA,NA,NA,NA
-"1066","KU761859","rainbow trout","1005507087","UAM:Fish:2349|USA: Alaska|61.49184 N 151.55586 W|29-Jul-2013",NA,NA,NA,NA
-"1067","KU867889","rainbow trout","1005507149","UAM:Fish:9941|USA: Alaska|59.556404 N 154.034636 W|16-Aug-2012",NA,NA,NA,NA
-"1068","KU872710","rainbow trout","1080112584","USA: Washington|Elwha River",NA,NA,NA,NA
-"1069","KU872719","rainbow trout","1080112602","USA: Washington|Elwha River",NA,NA,NA,NA
-"1070","KX099950","rainbow trout","1190359238","DK01",NA,NA,NA,NA
-"1071","KX144979","rainbow trout","1049486719","NXG2013414|Canada: Yukon Territory, McIntrye Creek|12-Aug-1994|Illingworth, V., Icy Waters Ltd. Yukon.|E. Holm","Oncorhynchus mykiss","CFF525-16",NA,NA
-"1072","KX145060","rainbow trout","1049486881","NXG2013415|Canada: Yukon Territory, McIntrye Creek|12-Aug-1994|Illingworth, V., Icy Waters Ltd. Yukon.|E. Holm","Oncorhynchus mykiss","CFF526-16",NA,NA
-"1073","KX145259","rainbow trout","1049487279","NXG2013352|Canada: Saskatchewan, Belly River|Watkinson, Douglas, DFO|Douglas Watkinson","Oncorhynchus mykiss","CFF469-16",NA,NA
-"1074","KX145451","rainbow trout","1049487663","NXG2012172|Canada: Ontario, Baltimore Creek|19-Oct-1993|Newbold, D.,Via Newbold, D.|Erling Holm","Oncorhynchus mykiss","CFF077-16",NA,NA
-"1075","KX781852","rainbow trout","1189398914","SGS210|Australia","Oncorhynchus mykiss","SDP331053-16",NA,NA
-"1076","KX781859","rainbow trout","1189398928","SGS124|Australia","Oncorhynchus mykiss","SDP331023-16",NA,NA
-"1077","KX781867","rainbow trout","1189398944","SGS106|Australia","Oncorhynchus mykiss","SDP331036-16",NA,NA
-"1078","KX781892","rainbow trout","1189398994","SGS234|Australia","Oncorhynchus mykiss","SDP331060-16",NA,NA
-"1079","KX904362","rainbow trout","1149016028","Arenero",NA,NA,NA,NA
-"1080","KY018712","rainbow trout","1153535320","MT08362","Oncorhynchus mykiss","BGSF114-15",NA,NA
-"1081","KY018713","rainbow trout","1153535322","MT08363","Oncorhynchus mykiss","BGSF115-15",NA,NA
-"1082","KY018851","rainbow trout","1153535598","MT08387","Oncorhynchus mykiss","BGSF133-15",NA,NA
-"1083","KY018852","rainbow trout","1153535600","MT08386","Oncorhynchus mykiss","BGSF132-15",NA,NA
-"1084","L29771","rainbow trout","1246865","hepatocyte|liver|adult",NA,NA,NA,NA
-"1085","LC050735","rainbow trout","815248813",NA,"Oncorhynchus mykiss","GBGCA12527-15",NA,NA
-"1086","LC091631","rainbow trout","985566964","UW:118087",NA,NA,NA,NA
-"1087","LC113971","rainbow trout","984261946","Hap1",NA,NA,NA,NA
-"1088","LC113972","rainbow trout","984261947","Hap2",NA,NA,NA,NA
-"1089","LC113973","rainbow trout","984261948","Hap3",NA,NA,NA,NA
-"1090","LC113974","rainbow trout","984261949","Hap4",NA,NA,NA,NA
-"1091","LC113975","rainbow trout","984261950","Hap5",NA,NA,NA,NA
-"1092","LC113976","rainbow trout","984261951","Hap6",NA,NA,NA,NA
-"1093","LC113977","rainbow trout","984261952","Hap7",NA,NA,NA,NA
-"1094","LC113978","rainbow trout","984261953","Hap8",NA,NA,NA,NA
-"1095","LC113979","rainbow trout","984261954","Hap9",NA,NA,NA,NA
-"1096","LC113980","rainbow trout","984261955","Hap10",NA,NA,NA,NA
-"1097","LC113981","rainbow trout","984261956","Hap11",NA,NA,NA,NA
-"1098","LC113982","rainbow trout","984261957","Hap12",NA,NA,NA,NA
-"1099","LC113983","rainbow trout","984261958","Hap13",NA,NA,NA,NA
-"1100","LC113984","rainbow trout","984261959","Hap14",NA,NA,NA,NA
-"1101","M81755","rainbow trout","342816","pT7T3",NA,NA,NA,NA
-"1102","MF621750","rainbow trout","1276392030","NEFC_F16-293|USA: Wisconsin",NA,NA,NA,NA
-"1103","NC_001717","rainbow trout","5835261","hepatocyte|liver|adult",NA,NA,NA,NA
-"1104","NC_023383","Macquarie perch","575669804","MP_C1|male|USA:Mitta Mitta River Inflow, Dartmouth Lake|27-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
-"1105","S68946","rainbow trout","544879",NA,NA,NA,NA,NA
-"1106","X14013","rainbow trout","13622","pRtmtX-13B2a|liver|pTZ18R",NA,NA,NA,NA
-"1107","X14014","rainbow trout","13625","pRtmtX-13P2|liver|pTZ18R",NA,NA,NA,NA
-"1108","",NA,NA,NA,"Oncorhynchus mykiss","IFCZE814-11",49.485,18.17
-"1109","",NA,NA,NA,"Oncorhynchus mykiss","IFCZE723-11",50.491,16.183
-"1110","",NA,NA,NA,"Oncorhynchus mykiss","IFCZE741-11",49.076,16.758
-"1111","",NA,NA,NA,"Oncorhynchus mykiss","IFCZE805-11",50.659,14.727
-"1112","",NA,NA,NA,"Oncorhynchus mykiss","IFCZE806-11",50.659,14.727
-"1115","",NA,NA,NA,"Oncorhynchus mykiss","RDATC019-05",NA,NA
-"1116","",NA,NA,NA,"Oncorhynchus mykiss","MOBIL1108-15",43.2072,-79.9309
-"1117","",NA,NA,NA,"Oncorhynchus mykiss","UCFMS019-14",51.0756,-114.129
-"1118","",NA,NA,NA,"Oncorhynchus mykiss","MOBIL1110-15",43.2072,-79.9309
-"1119","",NA,NA,NA,"Oncorhynchus mykiss","UCFMS006-14",51.0761,-114.133
-"1122","",NA,NA,NA,"Oncorhynchus mykiss","IFCZE813-11",49.485,18.17
-"1123","",NA,NA,NA,"Salvelinus confluentus","GBMIN96797-17",NA,NA
-"1126","",NA,NA,NA,"Oncorhynchus mykiss","IFCZE797-11",50.001,14.006
-"1127","",NA,NA,NA,"Oncorhynchus mykiss","UCFMS010-14",51.0771,-114.129
-"1128","",NA,NA,NA,"Oncorhynchus mykiss","MOBIL1056-15",-5.11,105.3
-"1129","",NA,NA,NA,"Oncorhynchus mykiss","UCFMS001-14",51.0785,-114.131
-"1130","JX960956",NA,NA,NA,"Salvelinus confluentus","GBGCA3673-13",NA,NA
-"1131","EU524364",NA,NA,NA,"Salvelinus confluentus","BCF507-07",NA,NA
-"1132","EU522401",NA,NA,NA,"Salvelinus confluentus","BCF511-07",NA,NA
-"1133","EU522400",NA,NA,NA,"Salvelinus confluentus","BCF512-07",NA,NA
-"1134","EU522399",NA,NA,NA,"Salvelinus confluentus","BCF513-07",NA,NA
-"1135","EU522402",NA,NA,NA,"Salvelinus confluentus","BCF510-07",NA,NA
-"1136","EU522398",NA,NA,NA,"Salvelinus confluentus","BCF508-07",NA,NA
-"1137","EU524365",NA,NA,NA,"Salvelinus confluentus","BCF506-07",NA,NA
-"1138","JX960955",NA,NA,NA,"Salvelinus confluentus","GBGCA3674-13",NA,NA
-"1139","EU522403",NA,NA,NA,"Salvelinus confluentus","BCF509-07",NA,NA
+"1","AF294445","Macquarie perch","10880835","CES-712|Australia: Kangaroo River, NSW",NA,NA,NA,NA
+"2","AF295046","Macquarie perch","10880851","CES-208|Australia: Cotter River, ACT",NA,NA,NA,NA
+"3","AH013012","Macquarie perch","1032518910","W1",NA,NA,NA,NA
+"4","AY254554","Macquarie perch","32454690","M.austW1",NA,NA,NA,NA
+"5","EU527921","Macquarie perch","188523989","1",NA,NA,NA,NA
+"6","EU527922","Macquarie perch","188523990","2",NA,NA,NA,NA
+"7","EU527923","Macquarie perch","188523991","3",NA,NA,NA,NA
+"8","EU527924","Macquarie perch","188523992","4",NA,NA,NA,NA
+"9","EU527925","Macquarie perch","188523993","5",NA,NA,NA,NA
+"10","EU527926","Macquarie perch","188523994","6",NA,NA,NA,NA
+"11","EU527927","Macquarie perch","188523995","7",NA,NA,NA,NA
+"12","EU527928","Macquarie perch","188523996","8",NA,NA,NA,NA
+"13","EU527929","Macquarie perch","188523997","9",NA,NA,NA,NA
+"14","EU527930","Macquarie perch","188523998","10",NA,NA,NA,NA
+"15","EU527931","Macquarie perch","188523999","11",NA,NA,NA,NA
+"16","EU527932","Macquarie perch","188524000","12",NA,NA,NA,NA
+"17","EU527933","Macquarie perch","188524001","13",NA,NA,NA,NA
+"18","EU527934","Macquarie perch","188524002","14",NA,NA,NA,NA
+"19","EU527935","Macquarie perch","188524003","15",NA,NA,NA,NA
+"20","EU527936","Macquarie perch","188524004","16",NA,NA,NA,NA
+"21","EU527937","Macquarie perch","188524005","17",NA,NA,NA,NA
+"22","EU527938","Macquarie perch","188524006","18",NA,NA,NA,NA
+"23","EU527939","Macquarie perch","188524007","19",NA,NA,NA,NA
+"24","EU527940","Macquarie perch","188524008","20",NA,NA,NA,NA
+"25","EU527941","Macquarie perch","188524009","21",NA,NA,NA,NA
+"26","EU527942","Macquarie perch","188524010","22",NA,NA,NA,NA
+"27","EU527943","Macquarie perch","188524011","23",NA,NA,NA,NA
+"28","EU527944","Macquarie perch","188524012","24",NA,NA,NA,NA
+"29","EU527945","Macquarie perch","188524013","25",NA,NA,NA,NA
+"30","EU527946","Macquarie perch","188524014","26",NA,NA,NA,NA
+"31","EU527947","Macquarie perch","188524015","27",NA,NA,NA,NA
+"32","EU527948","Macquarie perch","188524016","28",NA,NA,NA,NA
+"33","EU527949","Macquarie perch","188524017","29",NA,NA,NA,NA
+"34","EU527950","Macquarie perch","188524018","30",NA,NA,NA,NA
+"35","EU527951","Macquarie perch","188524019","31",NA,NA,NA,NA
+"36","EU527952","Macquarie perch","188524020","32",NA,NA,NA,NA
+"37","EU527953","Macquarie perch","188524021","33",NA,NA,NA,NA
+"38","EU527954","Macquarie perch","188524022","34",NA,NA,NA,NA
+"39","EU527955","Macquarie perch","188524023","35",NA,NA,NA,NA
+"40","EU527956","Macquarie perch","188524024","36",NA,NA,NA,NA
+"41","EU527957","Macquarie perch","188524025","37",NA,NA,NA,NA
+"42","EU527958","Macquarie perch","188524026","38",NA,NA,NA,NA
+"43","EU527959","Macquarie perch","188524027","39",NA,NA,NA,NA
+"44","EU527960","Macquarie perch","188524028","40",NA,NA,NA,NA
+"45","EU527961","Macquarie perch","188524029","41",NA,NA,NA,NA
+"46","EU527962","Macquarie perch","188524030","42",NA,NA,NA,NA
+"47","EU527963","Macquarie perch","188524031","43",NA,NA,NA,NA
+"48","EU527964","Macquarie perch","188524032","44",NA,NA,NA,NA
+"49","EU527965","Macquarie perch","188524033","45",NA,NA,NA,NA
+"50","EU527966","Macquarie perch","188524034","46",NA,NA,NA,NA
+"51","FJ710956","Macquarie perch","224486628","Australia: Hatchery bred, Narrandera NSW",NA,NA,NA,NA
+"52","HG799088","Macquarie perch","594009716","MP_C1|male|Australia:Mitta Mitta River Inflow, Dartmouth Lake|27-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"53","HQ615443","Macquarie perch","312452305","Australia: Cotter River ACT|21-May-2009",NA,NA,NA,NA
+"54","HQ615444","Macquarie perch","312452306","NSW Department of Primary Industries 2330|Australia: Little River, Nattai NSW|24-Jun-2009",NA,NA,NA,NA
+"55","HQ615445","Macquarie perch","312452307","Australia: Cordeaux Dam NSW|13-Nov-2007",NA,NA,NA,NA
+"56","HQ615499","Macquarie perch","312452361","Australia: Cotter River ACT|21-May-2009",NA,NA,NA,NA
+"57","HQ615500","Macquarie perch","312452362","NSW Department of Primary Industries 2330|Australia: Little River, Nattai NSW|24-Jun-2009",NA,NA,NA,NA
+"58","HQ615501","Macquarie perch","312452363","NSW Department of Primary Industries 2331|Australia: Little River, Nattai NSW|26-Jun-2009",NA,NA,NA,NA
+"59","HQ615502","Macquarie perch","312452364","Australia: Cordeaux Dam NSW|13-Nov-2007",NA,NA,NA,NA
+"60","KJ669513","Macquarie perch","670609094","CES-242|Australia: Little River, NSW","Macquaria australasica","GBGCA12190-15",NA,NA
+"61","KJ669514","Macquarie perch","670609096","CES-273|Australia: Cordeaux Dam, NSW","Macquaria australasica","GBGCA12191-15",NA,NA
+"62","KJ669515","Macquarie perch","670609098","CES-712|Australia: Kangaroo River, NSW","Macquaria australasica","GBGCA12192-15",NA,NA
+"63","KJ669516","Macquarie perch","670609100","CES-208|Australia: Cotter River, ACT","Macquaria australasica","GBGCA12193-15",NA,NA
+"64","KJ774846","Macquarie perch","670608654","CES-712|Australia: Kangaroo River, NSW",NA,NA,NA,NA
+"65","KR152233","Macquarie perch","929045238","MP_WOC10|Australia: Wongawilli Creek, Wongawilli|2006|Dean Gilligan",NA,NA,NA,NA
+"66","KR152234","Macquarie perch","929045252","MP_KD11|Australia: Kedumba River, Kedumba Crossing|2007|Dean Gilligan",NA,NA,NA,NA
+"67","KR152235","Macquarie perch","929045266","MP_KR1|Australia: Kangaroo River|Dean Gilligan",NA,NA,NA,NA
+"68","KR152236","Macquarie perch","929045280","MP_CP1|Australia: Capertree River, Glen Davis|2006|Dean Gilligan",NA,NA,NA,NA
+"69","KR152237","Macquarie perch","929045294","MP_G10|Australia: Yarra River, Warrandyte Township (at bridge on Kangaroo Ground-Warrandyte Rd) (Site 40)|2008|Scott Raymond",NA,NA,NA,NA
+"70","KR152238","Macquarie perch","929045308","MP_KN2|Australia: Kanangra Creek, Below Whalania Creek|2007|Dean Gilligan",NA,NA,NA,NA
+"71","KR152239","Macquarie perch","929045322","MP_D2|Australia: King Parrot Creek, Richards Bridge",NA,NA,NA,NA
+"72","KR152240","Macquarie perch","929045336","MP_GB23|Australia: Glenbrook Creek, Above National Park Causeway|2011|Dean Gilligan",NA,NA,NA,NA
+"73","KR152241","Macquarie perch","929045350","MP_TU14|Australia: Abercrombie River, Tuena|Dean Gilligan",NA,NA,NA,NA
+"74","KR152242","Macquarie perch","929045364","MP_CL1|Australia: Colo River, Below Wollemi Creek|2007|Dean Gilligan",NA,NA,NA,NA
+"75","KR152243","Macquarie perch","929045378","MP_E6|Australia: Hughes Creek, Gorge|2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"76","KR152244","Macquarie perch","929045392","MP_F36|Australia: Sevens Creek, Galls Gap Road Bridge to Gooram Falls|2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"77","KR152245","Macquarie perch","929045406","MP_PP1|Australia: Wentworth Creek, Panther Park|2007|Dean Gilligan",NA,NA,NA,NA
+"78","KR152246","Macquarie perch","929045420","MP_WC14|Australia: Wheeny Creek, Blue Gum Track|2005|Dean Gilligan",NA,NA,NA,NA
+"79","KR152247","Macquarie perch","929045434","MP_WL10|Australia: Wollemi Creek, Wollemi Creek|2007|Dean Gilligan",NA,NA,NA,NA
+"80","KR152248","Macquarie perch","929045448","MP_M26|Australia: Murrumbidgee River, Kissops Flat|Mark Lintermans",NA,NA,NA,NA
+"81","KR152249","Macquarie perch","929045462","MP_CX2|Australia: Coxs River, Kelpie Point|2005|Dean Gilligan",NA,NA,NA,NA
+"82","KR152250","Macquarie perch","929045476","MP_KW23|Australia: Kowmung River, Cedar Ford|2005|Dean Gilligan",NA,NA,NA,NA
+"83","KR152251","Macquarie perch","929045490","MP_WO1|Australia: Wollangambe river, Above Bowens Creek|2007|Dean Gilligan",NA,NA,NA,NA
+"84","KR152252","Macquarie perch","929045504","MP_CR47|Australia: Cataract River, Jordans Pass|2013|Dean Gilligan",NA,NA,NA,NA
+"85","KR152253","Macquarie perch","929045518","MP_LT9|Australia: Little River, W41 Causeway|2005|Dean Gilligan",NA,NA,NA,NA
+"86","KR152254","Macquarie perch","929045532","MP_L31|Australia: Cotter River, Cotter Dam|2011|Mark Lintermans",NA,NA,NA,NA
+"87","KR152255","Macquarie perch","929045546","MP_B1|Australia: Hollands Creek, Hollands Creek upstream from Tatong bridge|2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"88","KR152256","Macquarie perch","929045560","MP_CR43|Australia: Cataract River, Jordans Pass|2013|Dean Gilligan",NA,NA,NA,NA
+"89","KT626048","Macquarie perch","984698090","MP_AB12|Australia: Abercrombie River|34.02729 S 149.46088 E|10-May-2006|Dean Hartwell",NA,NA,NA,NA
+"90","KT626049","Macquarie perch","984698091","MP_AB15|Australia: Abercrombie River|34.02729 S 149.46088 E|10-May-2006|Dean Hartwell",NA,NA,NA,NA
+"91","KT626050","Macquarie perch","984698092","MP_AB17|Australia: Abercrombie River|33.9813 S 149.3843 E|20-Apr-2006|Dean Hartwell",NA,NA,NA,NA
+"92","KT626051","Macquarie perch","984698093","MP_AB40|Australia: Abercrombie River|34.0878 S 149.55104 E|28-Mar-2008|Marty Asmus",NA,NA,NA,NA
+"93","KT626052","Macquarie perch","984698094","MP_AB41|Australia: Abercrombie River|34.0878 S 149.55104 E|09-May-2008|Marty Asmus",NA,NA,NA,NA
+"94","KT626053","Macquarie perch","984698095","MP_AC1|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"95","KT626054","Macquarie perch","984698096","MP_AC10|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"96","KT626055","Macquarie perch","984698097","MP_AC11|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"97","KT626056","Macquarie perch","984698098","MP_AC12|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"98","KT626057","Macquarie perch","984698099","MP_AC13|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"99","KT626058","Macquarie perch","984698100","MP_AC14|Australia: Adjungbilly Creek|35.03896 S 148.30501 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"100","KT626059","Macquarie perch","984698101","MP_AC15|Australia: Adjungbilly Creek|35.03896 S 148.30501 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"101","KT626060","Macquarie perch","984698102","MP_AC16|Australia: Adjungbilly Creek|35.03896 S 148.30501 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"102","KT626061","Macquarie perch","984698103","MP_AC17|Australia: Adjungbilly Creek|35.03896 S 148.30501 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"103","KT626062","Macquarie perch","984698104","MP_AC18|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"104","KT626063","Macquarie perch","984698105","MP_AC19|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"105","KT626064","Macquarie perch","984698106","MP_AC2|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"106","KT626065","Macquarie perch","984698107","MP_AC20|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"107","KT626066","Macquarie perch","984698108","MP_AC21|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"108","KT626067","Macquarie perch","984698109","MP_AC22|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"109","KT626068","Macquarie perch","984698110","MP_AC23|Australia: Adjungbilly Creek|35.08059 S 148.32725 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"110","KT626069","Macquarie perch","984698111","MP_AC3|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"111","KT626070","Macquarie perch","984698112","MP_AC4|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"112","KT626071","Macquarie perch","984698113","MP_AC5|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"113","KT626072","Macquarie perch","984698114","MP_AC6|Australia: Adjungbilly Creek|35.021221 S 148.280492 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"114","KT626073","Macquarie perch","984698115","MP_AC7|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"115","KT626074","Macquarie perch","984698116","MP_AC8|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"116","KT626075","Macquarie perch","984698117","MP_AC9|Australia: Adjungbilly Creek|35.05502 S 148.31598 E|09-May-2014|Tim McGarry, Dean Gilligan",NA,NA,NA,NA
+"117","KT626076","Macquarie perch","984698118","MP_B2|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"118","KT626077","Macquarie perch","984698119","MP_B23|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
+"119","KT626078","Macquarie perch","984698120","MP_B24|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
+"120","KT626079","Macquarie perch","984698121","MP_B25|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
+"121","KT626080","Macquarie perch","984698122","MP_B26|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
+"122","KT626081","Macquarie perch","984698123","MP_B27|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
+"123","KT626082","Macquarie perch","984698124","MP_B28|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
+"124","KT626083","Macquarie perch","984698125","MP_B29|Australia: Hollands Creek|36.738884 S 146.105461 E|09-Jan-2012|Scott Raymond, Joanne Kearns",NA,NA,NA,NA
+"125","KT626084","Macquarie perch","984698126","MP_B3|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"126","KT626085","Macquarie perch","984698127","MP_B4|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"127","KT626086","Macquarie perch","984698128","MP_B5|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"128","KT626087","Macquarie perch","984698129","MP_B6|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"129","KT626088","Macquarie perch","984698130","MP_B7|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"130","KT626089","Macquarie perch","984698131","MP_B8|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"131","KT626090","Macquarie perch","984698132","MP_C103|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|18-Feb-2011|Zeb Tonkin",NA,NA,NA,NA
+"132","KT626091","Macquarie perch","984698133","MP_C110|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|18-Feb-2011|Zeb Tonkin",NA,NA,NA,NA
+"133","KT626092","Macquarie perch","984698134","MP_C117|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|27-Mar-2012|Zeb Tonkin",NA,NA,NA,NA
+"134","KT626093","Macquarie perch","984698135","MP_C118|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|27-Mar-2012|Zeb Tonkin",NA,NA,NA,NA
+"135","KT626094","Macquarie perch","984698136","MP_C13|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"136","KT626095","Macquarie perch","984698137","MP_C131|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|29-Mar-2012|Zeb Tonkin",NA,NA,NA,NA
+"137","KT626096","Macquarie perch","984698138","MP_C161|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|25-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"138","KT626097","Macquarie perch","984698139","MP_C163|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|25-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"139","KT626098","Macquarie perch","984698140","MP_C164|Australia: Dartmouth Reservoir|36.777541 S 147.663165 E|25-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"140","KT626099","Macquarie perch","984698141","MP_C177|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|27-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"141","KT626100","Macquarie perch","984698142","MP_C178|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|27-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"142","KT626101","Macquarie perch","984698143","MP_C180|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|27-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"143","KT626102","Macquarie perch","984698144","MP_C181|Australia: Dartmouth Reservoir|36.55987 S 147.65947 E|26-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"144","KT626103","Macquarie perch","984698145","MP_C183|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|28-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"145","KT626104","Macquarie perch","984698146","MP_C185|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|28-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"146","KT626105","Macquarie perch","984698147","MP_C187|Australia: Dartmouth Reservoir|36.60415 S 147.54091 E|28-Feb-2013|Zeb Tonkin",NA,NA,NA,NA
+"147","KT626106","Macquarie perch","984698148","MP_C2|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|27-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"148","KT626107","Macquarie perch","984698149","MP_C21|Australia: Dartmouth Reservoir|36.725817 S 147.6579 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"149","KT626108","Macquarie perch","984698150","MP_C25|Australia: Dartmouth Reservoir|36.725817 S 147.6579 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"150","KT626109","Macquarie perch","984698151","MP_C29|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"151","KT626110","Macquarie perch","984698152","MP_C3|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"152","KT626111","Macquarie perch","984698153","MP_C35|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|29-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"153","KT626112","Macquarie perch","984698154","MP_C37|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|29-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"154","KT626113","Macquarie perch","984698155","MP_C4|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"155","KT626114","Macquarie perch","984698156","MP_C5|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"156","KT626115","Macquarie perch","984698157","MP_C54|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|29-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"157","KT626116","Macquarie perch","984698158","MP_C7|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|28-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"158","KT626117","Macquarie perch","984698159","MP_CBR01|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"159","KT626118","Macquarie perch","984698160","MP_CBR02|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"160","KT626119","Macquarie perch","984698161","MP_CBR03|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"161","KT626120","Macquarie perch","984698162","MP_CBR04|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"162","KT626121","Macquarie perch","984698163","MP_CBR06|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"163","KT626122","Macquarie perch","984698164","MP_CBR07|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"164","KT626123","Macquarie perch","984698165","MP_CBR08|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"165","KT626124","Macquarie perch","984698166","MP_CBR09|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"166","KT626125","Macquarie perch","984698167","MP_CBR10|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"167","KT626126","Macquarie perch","984698168","MP_CBR11|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"168","KT626127","Macquarie perch","984698169","MP_CBR12|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"169","KT626128","Macquarie perch","984698170","MP_CBR13|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"170","KT626129","Macquarie perch","984698171","MP_CBR14|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"171","KT626130","Macquarie perch","984698172","MP_CBR15|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"172","KT626131","Macquarie perch","984698173","MP_CBR16|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"173","KT626132","Macquarie perch","984698174","MP_CBR17|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"174","KT626133","Macquarie perch","984698175","MP_CBR18|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"175","KT626134","Macquarie perch","984698176","MP_CBR19|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"176","KT626135","Macquarie perch","984698177","MP_CBR20|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"177","KT626136","Macquarie perch","984698178","MP_CBR21|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"178","KT626137","Macquarie perch","984698179","MP_CBR22|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"179","KT626138","Macquarie perch","984698180","MP_CBR23|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"180","KT626139","Macquarie perch","984698181","MP_CBR24|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"181","KT626140","Macquarie perch","984698182","MP_CBR25|Australia: Dartmouth Reservoir|36.7148 S 147.6574 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"182","KT626141","Macquarie perch","984698183","MP_CDM01|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"183","KT626142","Macquarie perch","984698184","MP_CDM02|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"184","KT626143","Macquarie perch","984698185","MP_CDM03|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"185","KT626144","Macquarie perch","984698186","MP_CDM04|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"186","KT626145","Macquarie perch","984698187","MP_CDM05|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"187","KT626146","Macquarie perch","984698188","MP_CDM06|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"188","KT626147","Macquarie perch","984698189","MP_CDM07|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"189","KT626148","Macquarie perch","984698190","MP_CDM08|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"190","KT626149","Macquarie perch","984698191","MP_CDM09|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"191","KT626150","Macquarie perch","984698192","MP_CDM10|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"192","KT626151","Macquarie perch","984698193","MP_CDM11|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"193","KT626152","Macquarie perch","984698194","MP_CDM12|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"194","KT626153","Macquarie perch","984698195","MP_CDM13|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"195","KT626154","Macquarie perch","984698196","MP_CDM14|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"196","KT626155","Macquarie perch","984698197","MP_CDM15|Australia: Cataract Dam|34.266 S 150.81 E|12-May-2009|Mark Lintermans",NA,NA,NA,NA
+"197","KT626156","Macquarie perch","984698198","MP_CR21|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"198","KT626157","Macquarie perch","984698199","MP_CR22|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"199","KT626158","Macquarie perch","984698200","MP_CR23|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"200","KT626159","Macquarie perch","984698201","MP_CR24|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"201","KT626160","Macquarie perch","984698202","MP_CR25|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"202","KT626161","Macquarie perch","984698203","MP_CR26|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"203","KT626162","Macquarie perch","984698204","MP_CR27|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"204","KT626163","Macquarie perch","984698205","MP_CR28|Australia: Cataract River|34.2269253 S 150.755961 E|11-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"205","KT626164","Macquarie perch","984698206","MP_CR29|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"206","KT626165","Macquarie perch","984698207","MP_CR30|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"207","KT626166","Macquarie perch","984698208","MP_CR31|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"208","KT626167","Macquarie perch","984698209","MP_CR32|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"209","KT626168","Macquarie perch","984698210","MP_CR33|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"210","KT626169","Macquarie perch","984698211","MP_CR34|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"211","KT626170","Macquarie perch","984698212","MP_CR35|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"212","KT626171","Macquarie perch","984698213","MP_CR36|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"213","KT626172","Macquarie perch","984698214","MP_CR37|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"214","KT626173","Macquarie perch","984698215","MP_CR38|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"215","KT626174","Macquarie perch","984698216","MP_CR39|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"216","KT626175","Macquarie perch","984698217","MP_CR40|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"217","KT626176","Macquarie perch","984698218","MP_CR41|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"218","KT626177","Macquarie perch","984698219","MP_CR42|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"219","KT626178","Macquarie perch","984698220","MP_CR44|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"220","KT626179","Macquarie perch","984698221","MP_CR45|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"221","KT626180","Macquarie perch","984698222","MP_CR46|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"222","KT626181","Macquarie perch","984698223","MP_CR48|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"223","KT626182","Macquarie perch","984698224","MP_CR49|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"224","KT626183","Macquarie perch","984698225","MP_CR50|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"225","KT626184","Macquarie perch","984698226","MP_CR51|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"226","KT626185","Macquarie perch","984698227","MP_CR52|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"227","KT626186","Macquarie perch","984698228","MP_CR53|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"228","KT626187","Macquarie perch","984698229","MP_CR54|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"229","KT626188","Macquarie perch","984698230","MP_CR55|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"230","KT626189","Macquarie perch","984698231","MP_CR56|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"231","KT626190","Macquarie perch","984698232","MP_CR57|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"232","KT626191","Macquarie perch","984698233","MP_CR58|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"233","KT626192","Macquarie perch","984698234","MP_CR59|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"234","KT626193","Macquarie perch","984698235","MP_CR60|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"235","KT626194","Macquarie perch","984698236","MP_CR61|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"236","KT626195","Macquarie perch","984698237","MP_CR62|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"237","KT626196","Macquarie perch","984698238","MP_CR63|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"238","KT626197","Macquarie perch","984698239","MP_CR64|Australia: Cataract River|34.26272 S 150.80219 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"239","KT626198","Macquarie perch","984698240","MP_CR65|Australia: Cataract River|34.26272 S 150.80219 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"240","KT626199","Macquarie perch","984698241","MP_CR66|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"241","KT626200","Macquarie perch","984698242","MP_CR67|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"242","KT626201","Macquarie perch","984698243","MP_CR68|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"243","KT626202","Macquarie perch","984698244","MP_CR69|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"244","KT626203","Macquarie perch","984698245","MP_CR70|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"245","KT626204","Macquarie perch","984698246","MP_CR71|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"246","KT626205","Macquarie perch","984698247","MP_CR72|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"247","KT626206","Macquarie perch","984698248","MP_CR73|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"248","KT626207","Macquarie perch","984698249","MP_CR74|Australia: Cataract River|34.2279824 S 150.742608 E|13-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"249","KT626208","Macquarie perch","984698250","MP_D10|Australia: King Parrot Creek|37.2419 S 145.2348 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"250","KT626209","Macquarie perch","984698251","MP_D11|Australia: King Parrot Creek|37.2419 S 145.2348 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"251","KT626210","Macquarie perch","984698252","MP_D12|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"252","KT626211","Macquarie perch","984698253","MP_D13|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"253","KT626212","Macquarie perch","984698254","MP_D14|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"254","KT626213","Macquarie perch","984698255","MP_D15|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"255","KT626214","Macquarie perch","984698256","MP_D16|Australia: King Parrot Creek|37.243814 S 145.241036 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"256","KT626215","Macquarie perch","984698257","MP_D3|Australia: King Parrot Creek|37.246749 S 145.242528 E|25-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
+"257","KT626216","Macquarie perch","984698258","MP_D4|Australia: King Parrot Creek|37.246749 S 145.242528 E|25-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
+"258","KT626217","Macquarie perch","984698259","MP_D5|Australia: King Parrot Creek|37.246749 S 145.242528 E|25-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
+"259","KT626218","Macquarie perch","984698260","MP_D6|Australia: King Parrot Creek|37.246749 S 145.242528 E|25-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
+"260","KT626219","Macquarie perch","984698261","MP_D7|Australia: King Parrot Creek|37.246749 S 145.242528 E|26-Feb-2009|Joanne Kearns, Daniel Stoessel, Tony Cable",NA,NA,NA,NA
+"261","KT626220","Macquarie perch","984698262","MP_D8|Australia: King Parrot Creek|37.246749 S 145.242528 E|26-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"262","KT626221","Macquarie perch","984698263","MP_D9|Australia: King Parrot Creek|37.2419 S 145.2348 E|27-Feb-2009|Joanne Kearns, Daniel Stoessel, Renae Ayres",NA,NA,NA,NA
+"263","KT626222","Macquarie perch","984698264","MP_E1|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|24-Oct-2007|Alastair McDonald",NA,NA,NA,NA
+"264","KT626223","Macquarie perch","984698265","MP_E10|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"265","KT626224","Macquarie perch","984698266","MP_E11|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"266","KT626225","Macquarie perch","984698267","MP_E12|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"267","KT626226","Macquarie perch","984698268","MP_E13|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"268","KT626227","Macquarie perch","984698269","MP_E14|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"269","KT626228","Macquarie perch","984698270","MP_E15|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"270","KT626229","Macquarie perch","984698271","MP_E2|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"271","KT626230","Macquarie perch","984698272","MP_E3|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"272","KT626231","Macquarie perch","984698273","MP_E4|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"273","KT626232","Macquarie perch","984698274","MP_E5|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"274","KT626233","Macquarie perch","984698275","MP_E7|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"275","KT626234","Macquarie perch","984698276","MP_E8|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"276","KT626235","Macquarie perch","984698277","MP_E9|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"277","KT626236","Macquarie perch","984698278","MP_F31|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"278","KT626237","Macquarie perch","984698279","MP_F32|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"279","KT626238","Macquarie perch","984698280","MP_F33|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"280","KT626239","Macquarie perch","984698281","MP_F34|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"281","KT626240","Macquarie perch","984698282","MP_F35|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"282","KT626241","Macquarie perch","984698283","MP_F37|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"283","KT626242","Macquarie perch","984698284","MP_F38|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"284","KT626243","Macquarie perch","984698285","MP_F39|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"285","KT626244","Macquarie perch","984698286","MP_F40|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"286","KT626245","Macquarie perch","984698287","MP_F41|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"287","KT626246","Macquarie perch","984698288","MP_F42|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"288","KT626247","Macquarie perch","984698289","MP_F43|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"289","KT626248","Macquarie perch","984698290","MP_F44|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"290","KT626249","Macquarie perch","984698291","MP_F45|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"291","KT626250","Macquarie perch","984698292","MP_G11|Australia: Yarra River|37.73623 S 145.22248 E|08-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"292","KT626251","Macquarie perch","984698293","MP_G146|Australia: Yarra River|37.6814535845692 S 145.350897033564 E|29-Mar-2012|Scott Raymond",NA,NA,NA,NA
+"293","KT626252","Macquarie perch","984698294","MP_G147|Australia: Yarra River|37.6814535845692 S 145.350897033564 E|29-Mar-2012|Scott Raymond",NA,NA,NA,NA
+"294","KT626253","Macquarie perch","984698295","MP_G152|Australia: Yarra River|37.6786008052873 S 145.490492169596 E|02-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"295","KT626254","Macquarie perch","984698296","MP_G153|Australia: Yarra River|37.6741022348606 S 145.488984547325 E|02-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"296","KT626255","Macquarie perch","984698297","MP_G158|Australia: Yarra River|37.6954132551696 S 145.496446181839 E|03-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"297","KT626256","Macquarie perch","984698298","MP_G159|Australia: Yarra River|37.6954132551696 S 145.496446181839 E|03-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"298","KT626257","Macquarie perch","984698299","MP_G160|Australia: Yarra River|37.6954132551696 S 145.496446181839 E|03-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"299","KT626258","Macquarie perch","984698300","MP_G163|Australia: Yarra River|37.6629670947845 S 145.382641656842 E|05-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"300","KT626259","Macquarie perch","984698301","MP_G164|Australia: Yarra River|37.6629670947845 S 145.382641656842 E|05-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"301","KT626260","Macquarie perch","984698302","MP_G17|Australia: Yarra River|37.7515 S 145.1219 E|09-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"302","KT626261","Macquarie perch","984698303","MP_G174|Australia: Yarra River|37.6580133163138 S 145.420102233543 E|11-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"303","KT626262","Macquarie perch","984698304","MP_G175|Australia: Yarra River|37.6580133163138 S 145.420102233543 E|11-Apr-2012|Scott Raymond",NA,NA,NA,NA
+"304","KT626263","Macquarie perch","984698305","MP_G179|Australia: Yarra River|37.733083972297 S 145.501971309791 E|04-Jun-2012|Scott Raymond",NA,NA,NA,NA
+"305","KT626264","Macquarie perch","984698306","MP_G18|Australia: Yarra River|37.73708 S 145.14853 E|09-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"306","KT626265","Macquarie perch","984698307","MP_G182|Australia: Yarra River|37.7856744271821 S 145.014028937585 E|22-Mar-2012|Scott Raymond",NA,NA,NA,NA
+"307","KT626266","Macquarie perch","984698308","MP_G183|Australia: Yarra River|37.785326568595 S 145.04060929802 E|20-Mar-2012|Scott Raymond",NA,NA,NA,NA
+"308","KT626267","Macquarie perch","984698309","MP_G184|Australia: Yarra River|37.785326568595 S 145.04060929802 E|20-Mar-2012|Scott Raymond",NA,NA,NA,NA
+"309","KT626268","Macquarie perch","984698310","MP_G185|Australia: Yarra River|37.785326568595 S 145.04060929802 E|20-Mar-2012|Scott Raymond",NA,NA,NA,NA
+"310","KT626269","Macquarie perch","984698311","MP_G186|Australia: Yarra River|37.785326568595 S 145.04060929802 E|20-Mar-2012|Scott Raymond",NA,NA,NA,NA
+"311","KT626270","Macquarie perch","984698312","MP_G188|Australia: Yarra River|37.7884201753536 S 145.041844839126 E|22-Mar-2012|Scott Raymond",NA,NA,NA,NA
+"312","KT626271","Macquarie perch","984698313","MP_G19|Australia: Yarra River|37.7515 S 145.1219 E|09-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"313","KT626272","Macquarie perch","984698314","MP_G190|Australia: Yarra River|37.6614882659654 S 145.37537285757 E|05-May-2013|Rhys Coleman",NA,NA,NA,NA
+"314","KT626273","Macquarie perch","984698315","MP_G191|Australia: Yarra River|37.6614882659654 S 145.37537285757 E|05-May-2013|Rhys Coleman",NA,NA,NA,NA
+"315","KT626274","Macquarie perch","984698316","MP_G192|Australia: Yarra River|37.6629670934542 S 145.382641656859 E|05-May-2013|Rhys Coleman",NA,NA,NA,NA
+"316","KT626275","Macquarie perch","984698317","MP_G231|Australia: Yarra River|37.7884201740222 S 145.041844839147 E|29-Jul-2013|Rhys Coleman",NA,NA,NA,NA
+"317","KT626276","Macquarie perch","984698318","MP_G232|Australia: Yarra River|37.7884201740222 S 145.041844839147 E|29-Jul-2013|Rhys Coleman",NA,NA,NA,NA
+"318","KT626277","Macquarie perch","984698319","MP_G233|Australia: Yarra River|37.7884201740222 S 145.041844839147 E|29-Jul-2013|Rhys Coleman",NA,NA,NA,NA
+"319","KT626278","Macquarie perch","984698320","MP_G234|Australia: Yarra River|37.7884201740222 S 145.041844839147 E|29-Jul-2013|Rhys Coleman",NA,NA,NA,NA
+"320","KT626279","Macquarie perch","984698321","MP_G235|Australia: Yarra River|37.6786008039565 S 145.490492169611 E|30-Jul-2013|Rhys Coleman",NA,NA,NA,NA
+"321","KT626280","Macquarie perch","984698322","MP_G236|Australia: Yarra River|37.7853265672636 S 145.04060929804 E|31-Jul-2013|Rhys Coleman",NA,NA,NA,NA
+"322","KT626281","Macquarie perch","984698323","MP_G237|Australia: Yarra River|37.7853265672636 S 145.04060929804 E|31-Jul-2013|Rhys Coleman",NA,NA,NA,NA
+"323","KT626282","Macquarie perch","984698324","MP_G32|Australia: Yarra River|37.75966667 S 145.07713333 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"324","KT626283","Macquarie perch","984698325","MP_G38|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"325","KT626284","Macquarie perch","984698326","MP_G39|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"326","KT626285","Macquarie perch","984698327","MP_G40|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"327","KT626286","Macquarie perch","984698328","MP_G41|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"328","KT626287","Macquarie perch","984698329","MP_G42|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"329","KT626288","Macquarie perch","984698330","MP_G43|Australia: Yarra River|37.7612 S 145.07775 E|22-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"330","KT626289","Macquarie perch","984698331","MP_G7|Australia: Yarra River|37.72856 S 145.24233 E|08-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"331","KT626290","Macquarie perch","984698332","MP_G9|Australia: Yarra River|37.7349483333333 S 145.238768333333 E|08-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"332","KT626291","Macquarie perch","984698333","MP_GB16|Australia: Glenbrook Creek|33.77614 S 150.60697 E|10-Nov-2010|Justin Stanger",NA,NA,NA,NA
+"333","KT626292","Macquarie perch","984698334","MP_GB17|Australia: Glenbrook Creek|33.77614 S 150.60697 E|10-Nov-2010|Justin Stanger",NA,NA,NA,NA
+"334","KT626293","Macquarie perch","984698335","MP_GB18|Australia: Glenbrook Creek|33.77614 S 150.60697 E|10-Nov-2010|Justin Stanger",NA,NA,NA,NA
+"335","KT626294","Macquarie perch","984698336","MP_GB19|Australia: Glenbrook Creek|33.7486 S 150.6007 E|06-May-2009|Matt Timmins",NA,NA,NA,NA
+"336","KT626295","Macquarie perch","984698337","MP_GB26|Australia: Glenbrook Creek|33.7486 S 150.6007 E|02-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"337","KT626296","Macquarie perch","984698338","MP_GB27|Australia: Glenbrook Creek|33.7486 S 150.6007 E|02-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"338","KT626297","Macquarie perch","984698339","MP_GB28|Australia: Glenbrook Creek|33.7486 S 150.6007 E|02-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"339","KT626298","Macquarie perch","984698340","MP_GB33|Australia: Glenbrook Creek|33.77815 S 150.6177 E|08-Jul-2011|Jonathon Doyle",NA,NA,NA,NA
+"340","KT626299","Macquarie perch","984698341","MP_GB34|Australia: Glenbrook Creek|33.77815 S 150.6177 E|08-Jul-2011|Jonathon Doyle",NA,NA,NA,NA
+"341","KT626300","Macquarie perch","984698342","MP_GB35|Australia: Glenbrook Creek|33.77815 S 150.6177 E|08-Jul-2011|Jonathon Doyle",NA,NA,NA,NA
+"342","KT626301","Macquarie perch","984698343","MP_GBR01|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"343","KT626302","Macquarie perch","984698344","MP_GBR02|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"344","KT626303","Macquarie perch","984698345","MP_GBR03|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"345","KT626304","Macquarie perch","984698346","MP_GBR04|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"346","KT626305","Macquarie perch","984698347","MP_GBR05|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"347","KT626306","Macquarie perch","984698348","MP_GBR06|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"348","KT626307","Macquarie perch","984698349","MP_GBR07|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"349","KT626308","Macquarie perch","984698350","MP_GBR08|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"350","KT626309","Macquarie perch","984698351","MP_GBR09|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"351","KT626310","Macquarie perch","984698352","MP_GBR10|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"352","KT626311","Macquarie perch","984698353","MP_GBR11|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"353","KT626312","Macquarie perch","984698354","MP_GBR12|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"354","KT626313","Macquarie perch","984698355","MP_GBR13|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"355","KT626314","Macquarie perch","984698356","MP_GBR14|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"356","KT626315","Macquarie perch","984698357","MP_GBR15|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"357","KT626316","Macquarie perch","984698358","MP_GBR16|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"358","KT626317","Macquarie perch","984698359","MP_GBR17|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"359","KT626318","Macquarie perch","984698360","MP_GBR18|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"360","KT626319","Macquarie perch","984698361","MP_GBR19|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"361","KT626320","Macquarie perch","984698362","MP_GBR20|Australia: Yarra River|37.70299 S 145.2891 E|08-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"362","KT626321","Macquarie perch","984698363","MP_GBR22|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"363","KT626322","Macquarie perch","984698364","MP_GBR23|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"364","KT626323","Macquarie perch","984698365","MP_GBR24|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"365","KT626324","Macquarie perch","984698366","MP_GBR25|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"366","KT626325","Macquarie perch","984698367","MP_GBR26|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"367","KT626326","Macquarie perch","984698368","MP_GBR27|Australia: Yarra River|37.73109 S 145.2061 E|11-Nov-2012|Brett Ingram",NA,NA,NA,NA
+"368","KT626327","Macquarie perch","984698369","MP_L32|Australia: Cotter River|35.31963 S 148.930669 E|04-Apr-2011|Mark Lintermans",NA,NA,NA,NA
+"369","KT626328","Macquarie perch","984698370","MP_L33|Australia: Cotter River|35.31963 S 148.930669 E|04-Apr-2011|Mark Lintermans",NA,NA,NA,NA
+"370","KT626329","Macquarie perch","984698371","MP_L61|Australia: Cotter River|35.31963 S 148.930669 E|2006|Mark Lintermans",NA,NA,NA,NA
+"371","KT626330","Macquarie perch","984698372","MP_L62|Australia: Cotter River|35.31963 S 148.930669 E|2006|Mark Lintermans",NA,NA,NA,NA
+"372","KT626331","Macquarie perch","984698373","MP_L63|Australia: Cotter River|35.31963 S 148.930669 E|2006|Mark Lintermans",NA,NA,NA,NA
+"373","KT626332","Macquarie perch","984698374","MP_L88|Australia: Cotter River|35.31963 S 148.930669 E|02-May-2012|Mark Lintermans",NA,NA,NA,NA
+"374","KT626333","Macquarie perch","984698375","MP_LN21|Australia: Lachlan River|34.26559 S 149.11879 E|21-Nov-2006|Dean Gilligan",NA,NA,NA,NA
+"375","KT626334","Macquarie perch","984698376","MP_LN22|Australia: Lachlan River|34.26559 S 149.11879 E|21-Nov-2006|Dean Gilligan",NA,NA,NA,NA
+"376","KT626335","Macquarie perch","984698377","MP_LN23|Australia: Lachlan River|34.26559 S 149.11879 E|21-Nov-2006|Dean Gilligan",NA,NA,NA,NA
+"377","KT626336","Macquarie perch","984698378","MP_LN24|Australia: Lachlan River|34.26559 S 149.11879 E|21-Nov-2006|Dean Gilligan",NA,NA,NA,NA
+"378","KT626337","Macquarie perch","984698379","MP_LN25|Australia: Lachlan River|34.41726951 S 149.09588148 E|03-Jul-2008|Michael Rodgers",NA,NA,NA,NA
+"379","KT626338","Macquarie perch","984698380","MP_LT20|Australia: Little River|34.17391 S 150.45073 E|24-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"380","KT626339","Macquarie perch","984698381","MP_LT21|Australia: Little River|34.15119 S 150.44995 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"381","KT626340","Macquarie perch","984698382","MP_LT22|Australia: Little River|34.17391 S 150.45073 E|24-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"382","KT626341","Macquarie perch","984698383","MP_LT23|Australia: Little River|34.18802 S 150.46519 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"383","KT626342","Macquarie perch","984698384","MP_LT24|Australia: Little River|34.18802 S 150.46519 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"384","KT626343","Macquarie perch","984698385","MP_LT25|Australia: Little River|34.18802 S 150.46519 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"385","KT626344","Macquarie perch","984698386","MP_LT29|Australia: Little River|34.19152 S 150.46396 E|22-Jun-2011|Jonathon Doyle",NA,NA,NA,NA
+"386","KT626345","Macquarie perch","984698387","MP_LT30|Australia: Little River|34.18802 S 150.46519 E|04-Aug-2011|Jonathon Doyle",NA,NA,NA,NA
+"387","KT626346","Macquarie perch","984698388","MP_LT31|Australia: Little River|34.18802 S 150.46519 E|20-Jun-2012|Jonathon Doyle",NA,NA,NA,NA
+"388","KT626347","Macquarie perch","984698389","MP_LT32|Australia: Little River|34.18802 S 150.46519 E|20-Jun-2012|Jonathon Doyle",NA,NA,NA,NA
+"389","KT626348","Macquarie perch","984698390","MP_M11|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"390","KT626349","Macquarie perch","984698391","MP_M12|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"391","KT626350","Macquarie perch","984698392","MP_M13|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"392","KT626351","Macquarie perch","984698393","MP_M14|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"393","KT626352","Macquarie perch","984698394","MP_M15|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"394","KT626353","Macquarie perch","984698395","MP_M16|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"395","KT626354","Macquarie perch","984698396","MP_M17|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"396","KT626355","Macquarie perch","984698397","MP_M18|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"397","KT626356","Macquarie perch","984698398","MP_M19|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"398","KT626357","Macquarie perch","984698399","MP_M20|Australia: Murrumbidgee River|36.15949 S 149.0044153 E|05-May-2011|Mark Lintermans",NA,NA,NA,NA
+"399","KT626358","Macquarie perch","984698400","MP_N01|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
+"400","KT626359","Macquarie perch","984698401","MP_N02|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
+"401","KT626360","Macquarie perch","984698402","MP_N03|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
+"402","KT626361","Macquarie perch","984698403","MP_N04|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
+"403","KT626362","Macquarie perch","984698404","MP_N05|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
+"404","KT626363","Macquarie perch","984698405","MP_N21|Australia: Cotter River|35.346623 S 148.890709 E|25-Mar-2011|Mark Lintermans",NA,NA,NA,NA
+"405","KT626364","Macquarie perch","984698406","MP_N22|Australia: Cotter River|35.361699 S 148.877614 E|09-Mar-2011|Mark Lintermans",NA,NA,NA,NA
+"406","KT626365","Macquarie perch","984698407","MP_N23|Australia: Cotter River|35.361699 S 148.877614 E|09-Mar-2011|Mark Lintermans",NA,NA,NA,NA
+"407","KT626366","Macquarie perch","984698408","MP_WC1|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
+"408","KT626367","Macquarie perch","984698409","MP_WC12|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
+"409","KT626368","Macquarie perch","984698410","MP_WC13|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
+"410","KT626369","Macquarie perch","984698411","MP_WC15|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
+"411","KT626370","Macquarie perch","984698412","MP_WC16|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
+"412","KT626371","Macquarie perch","984698413","MP_WC2|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
+"413","KT626372","Macquarie perch","984698414","MP_C1|Australia: Dartmouth Reservoir|36.7239 S 147.6588 E|27-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
+"414","KT626373","Macquarie perch","984698415","MP_G10|Australia: Yarra River|37.73623 S 145.22248 E|08-Oct-2008|Scott Raymond",NA,NA,NA,NA
+"415","KT626374","Macquarie perch","984698416","MP_D2|Australia: King Parrot Creek|37.1808 S 145.2493 E|11-May-2008|Dean Gilligan",NA,NA,NA,NA
+"416","KT626375","Macquarie perch","984698417","MP_E6|Australia: Hughes Creek|36.9955548001522 S 145.29117112222 E|11-Mar-2009|Joanne Kearns, Andrew Pickworth",NA,NA,NA,NA
+"417","KT626376","Macquarie perch","984698418","MP_F36|Australia: Sevens Creek|36.87955 S 145.619817 E|27-Apr-2011/29-Apr-2011|Justin O'Mahony and Joanne Kearns",NA,NA,NA,NA
+"418","KT626377","Macquarie perch","984698419","MP_WC14|Australia: Wheeny Creek|33.47399 S 150.67232 E|06-May-2005|Leanne Faulks",NA,NA,NA,NA
+"419","KT626378","Macquarie perch","984698420","MP_CR47|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"420","KT626379","Macquarie perch","984698421","MP_L31|Australia: Cotter River|35.31963 S 148.930669 E|04-Apr-2011|Mark Lintermans",NA,NA,NA,NA
+"421","KT626380","Macquarie perch","984698422","MP_B1|Australia: Hollands Creek|36.735342 S 146.100558 E|27-Nov-2007|Alasdair McDonald, Joanne Kearns",NA,NA,NA,NA
+"422","KT626381","Macquarie perch","984698423","MP_CR43|Australia: Cataract River|34.2269253 S 150.755961 E|12-Sep-2013|Dean Gilligan",NA,NA,NA,NA
+"423","NC_023383","Macquarie perch","575669804","MP_C1|male|USA:Mitta Mitta River Inflow, Dartmouth Lake|27-Oct-2008|Zeb Tonkin",NA,NA,NA,NA
