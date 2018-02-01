@@ -11,6 +11,7 @@ taxon_file  <- "example_taxon_list.txt"                           # must be in w
 out_table   <- "name_of_file_for_merged_genbank_bold_entries.csv" # these print to your working directory, or provide full path
 out_genbank <- "name_of_file_for_genbank_sequences.fasta"
 out_bold    <- "name_of_file_for_bold_sequences.fasta"
+out_genbank_bold <- "name_of_file_for_merged_sequences.fasta"     # requested by Tommy
 
 ### NO NEED TO EDIT BELOW THIS LINE - RUN ENTIRE SCRIPT #####################################################################################
 
@@ -101,3 +102,8 @@ write(fasta_vector, out_bold) # EXPORT (fasta-format)
 out_joint_records <- subset(joint_records, joint_records$processid %in% sapply(bold_fasta, "[[", "id") |
                               joint_records$genbank_accession %in% in_genbank$genbank_accession)
 write.csv(out_joint_records, out_table) # EXPORT (readable in Excel
+
+### MERGE GenBank and BOLD FASTA
+genbank_bold_fasta <- append(genbank_fasta, paste(fasta_vector, sep="", collapse=""))
+write(genbank_bold_fasta, file = out_genbank_bold)
+
