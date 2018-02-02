@@ -96,6 +96,7 @@ if(nrow(bold_only) > 0) {
   for(i in 1:length(fasta_vector)){
     fasta_vector[i] <- paste('>', bold_fasta[[i]]$id, '|', bold_fasta[[i]]$name, "\r", 
                              bold_fasta[[i]]$sequence, sep = '')                  # reconstruct fasta with formatted headers
+  }
     write(fasta_vector, out_bold) # EXPORT (fasta-format)
     
     ### Joint records
@@ -106,7 +107,7 @@ if(nrow(bold_only) > 0) {
     ### Joint fasta
     genbank_bold_fasta <- append(genbank_fasta, paste(fasta_vector, sep="", collapse=""))
     write(genbank_bold_fasta, file = out_genbank_bold)
-  }
+  
 } else{
   print("All BOLD entries also in GenBank")
   write.csv(joint_records, out_table)

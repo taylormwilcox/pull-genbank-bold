@@ -6,6 +6,7 @@ require("rentrez")           # Tutorial: https://cran.r-project.org/web/packages
 require("bold")              # Tutorial: https://github.com/ropensci/bold
 
 ### MODIFIED to make recursive over a list of taxa
+### Prints out one fasta per taxon in the list 
 
 ### Input and output files - PUT YOUR FILE NAMES HERE
 taxon_file  <- "example_taxon_list.txt"                           # must be in working directory or provide full path
@@ -15,12 +16,26 @@ out_table   <- "name_of_file_for_merged_genbank_bold_entries.csv" # these print 
 out_genbank_bold_end <- "end_name_file_fasta_merged.fasta"     
 
 ### NO NEED TO EDIT BELOW THIS LINE - RUN ENTIRE SCRIPT #####################################################################################
+### Dataframe to append for out summary table
+all_taxa_out <- data.frame(
+  genbank_accession	= vector(, length = 0),
+  organism	= vector(, length = 0),
+  uid	= vector(, length = 0),
+  loc	= vector(, length = 0),
+  species_name	= vector(, length = 0),
+  sampleid	= vector(, length = 0),
+  lat	= vector(, length = 0),
+  lon	= vector(, length = 0))
 
-### Format search query for GenBank
+### taxa to loop through
 taxa_to_loop <- read.table(taxon_file, sep = '\n')$V1                           # this alone adequate for BOLD query
 
-for(i in 1:length(taxon_list)){
+### loop through taxa list
+for(i in 1:length(taxa_to_loop)){
   taxon_list <- taxa_to_loop[i]                                                 # taxon list becomes entry 'i' 
+  print(paste("Starting", taxon_list))                                          # print progress
+  
+  fasta_name <- paste(gsub('\\s', '_', taxon_list), '_', out_genbank_bold_end, sep = '') # needs an identifiable name for outputs
 
   ### GenkBank search query (simplified with length = 1)
   genbank_term <- paste("mitochondrion[FILT] AND ", 
@@ -57,7 +72,7 @@ for(i in 1:length(taxon_list)){
   
   ### Get the BOLD sequence entries
   records_bold <- bold_seqspec(taxon = taxon_list)[, c('species_name',   
-                                                       'processid',               # BOLD identifier
+                                                       'processid',             # BOLD identifier
                                                        'genbank_accession', 
                                                        'lat', 
                                                        'lon')]
@@ -66,8 +81,8 @@ for(i in 1:length(taxon_list)){
   joint_records <- merge(records_genbank, 
                          records_bold, 
                          by = "genbank_accession", all = T) 
-  in_genbank <- subset(joint_records, is.na(joint_records$uid) == F)              # there is a genbank record (Entrez indexing faster than BOLD)
-  bold_only <- subset(joint_records, is.na(joint_records$uid) == T)               # only avaiable at bold
+  in_genbank <- subset(joint_records, is.na(joint_records$uid) == F)            # there is a genbank record (Entrez indexing faster than BOLD)
+  bold_only <- subset(joint_records, is.na(joint_records$uid) == T)             # only avaiable at bold
 
   ### GenBank FASTA - for large sets of records (>300, have to do batches)
   ids <- in_genbank$uid 
@@ -80,35 +95,39 @@ for(i in 1:length(taxon_list)){
                             entrez_fetch(db = "nucleotide",
                                          id = ids_chunked[[j]],
                                          rettype = "fasta"))
-    print(paste("Chunk #",j,"of",length(ids_chunked),"done!"))                    # progress message
+    print(paste("Chunk #",j,"of",length(ids_chunked),"done!"))                  # progress message
   }
   
-  ### BOLD FASTA - NOTE: Empty BOLD entries exist
+  ### if BOLD-only entries, join, otherwise, use GenBank only
   if(nrow(bold_only) > 0) {
     bold_fasta <- bold_seq(ids = bold_only$processid)                             
-    fasta_vector <- vector(, length = length(bold_fasta))                           # vector to put fasta sequences in
-    for(i in 1:length(fasta_vector)){
-      fasta_vector[i] <- paste('>', bold_fasta[[i]]$id, '|', bold_fasta[[i]]$name, "\r", 
-                               bold_fasta[[i]]$sequence, sep = '')                  # reconstruct fasta with formatted headers
+    fasta_vector <- vector(, length = length(bold_fasta))                       # vector to put fasta sequences in
+    for(j in 1:length(fasta_vector)){
+      fasta_vector[j] <- paste('>', bold_fasta[[j]]$id, '|', bold_fasta[[j]]$name, "\r", 
+                               bold_fasta[[j]]$sequence, sep = '')              # reconstruct fasta with formatted headers
     }
+    
+    #### Joint records
+    out_joint_records <- subset(joint_records, joint_records$processid %in% sapply(bold_fasta, "[[", "id") |
+                                  joint_records$genbank_accession %in% in_genbank$genbank_accession)
+    all_taxa_out <- rbind(all_taxa_out, out_joint_records)
+    
+    ### Joint fasta
+    genbank_bold_fasta <- append(genbank_fasta, paste(fasta_vector, sep="", collapse=""))
+    write(genbank_bold_fasta, file = fasta_name)
+    
   } else{
     print("All BOLD entries also in GenBank")
+    all_taxa_out <- rbind(all_taxa_out, in_genbank)
+    write(genbank_fasta, fasta_name)
   }
   
-  
-  ### trim table to only include references with a FASTA available
-  out_joint_records <- subset(joint_records, joint_records$processid %in% sapply(bold_fasta, "[[", "id") |
-                              joint_records$genbank_accession %in% in_genbank$genbank_accession)
-  
-  ### NEED TO APPEND out_joint_records to a big table with all taxa! ###
-  
-  ### MERGE GenBank and BOLD FASTA
-  genbank_bold_fasta <- append(genbank_fasta, paste(fasta_vector, sep="", collapse=""))
-  
-  fasta_name <- paste(gsub('\\s', '_', taxon_list), '_', out_genbank_bold_end, sep = '') # needs an identifiable name
-  write(genbank_bold_fasta, file = fasta_name)
-  
-  print("Finished", taxon_list)
+  print(paste("Finished", taxon_list))                                          # progress print
 }
+
+write.csv(all_taxa_out, out_table) # ALTOGETHER for summary table
+
+
+
 
 
